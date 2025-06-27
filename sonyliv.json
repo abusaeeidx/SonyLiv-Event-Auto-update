@@ -5,19 +5,6 @@
     {
       "event_category": "Cricket",
       "isLive": true,
-      "contentId": 1090483794,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004547/1750692138098119_SLvsBAN25_2nd_test_day3_23jun_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Bangladesh Tour of Sri Lanka 2025",
-      "match_name": "2nd Test - Day 3 - 27 Jun 2025",
-      "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1751067260~acl=/*~id=21340417460298147206244391086554~hmac=e70c25bd64b7d60048c4adba19d10381a76336a2eb6686b5e6775abc7b8c3271"
-    },
-    {
-      "event_category": "Cricket",
-      "isLive": true,
       "contentId": 1090483661,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004465/1750432323965806_engvsind25_mens_mixed_disability_4t20i_20jun_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
@@ -26,7 +13,7 @@
       "match_name": "England vs India Mixed Disability - 4th T20I - 27 Jun 2025",
       "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1751067260~acl=/*~id=21340417460298147206244391086554~hmac=e70c25bd64b7d60048c4adba19d10381a76336a2eb6686b5e6775abc7b8c3271"
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1751070909~acl=/*~id=41030006705863669497290523063687~hmac=47d76e25aa33ae2ab17fb0073f8456122cb82be87c40cacec39697bedefedc3c"
     },
     {
       "event_category": "Football",
@@ -39,7 +26,7 @@
       "match_name": "",
       "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1751067260~acl=/*~id=21340417460298147206244391086554~hmac=e70c25bd64b7d60048c4adba19d10381a76336a2eb6686b5e6775abc7b8c3271"
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1751070909~acl=/*~id=41030006705863669497290523063687~hmac=47d76e25aa33ae2ab17fb0073f8456122cb82be87c40cacec39697bedefedc3c"
     }
   ]
 }
