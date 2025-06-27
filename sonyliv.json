@@ -13,7 +13,7 @@
       "match_name": "2nd Test - Day 3 - 27 Jun 2025",
       "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1751064218~acl=/*~id=44111421549219572159694304773946~hmac=35189ad60d09a78417da8045b00811ece4a6b7b98ba26b14e1cc3f6e143c4904"
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1751066044~acl=/*~id=41715982365160615559840644090534~hmac=c38434c79c29efbc78d04756a6e8e8e87e17898def1ad8ca2850ed600ccf06a2"
     },
     {
       "event_category": "Cricket",
@@ -26,7 +26,7 @@
       "match_name": "England vs India Mixed Disability - 4th T20I - 27 Jun 2025",
       "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1751064218~acl=/*~id=44111421549219572159694304773946~hmac=35189ad60d09a78417da8045b00811ece4a6b7b98ba26b14e1cc3f6e143c4904"
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1751066044~acl=/*~id=41715982365160615559840644090534~hmac=c38434c79c29efbc78d04756a6e8e8e87e17898def1ad8ca2850ed600ccf06a2"
     },
     {
       "event_category": "Football",
@@ -39,7 +39,7 @@
       "match_name": "",
       "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1751064218~acl=/*~id=44111421549219572159694304773946~hmac=35189ad60d09a78417da8045b00811ece4a6b7b98ba26b14e1cc3f6e143c4904"
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1751066044~acl=/*~id=41715982365160615559840644090534~hmac=c38434c79c29efbc78d04756a6e8e8e87e17898def1ad8ca2850ed600ccf06a2"
     }
   ]
 }
