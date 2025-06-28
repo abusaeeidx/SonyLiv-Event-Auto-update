@@ -13,7 +13,7 @@
       "match_name": "1st T20I - 28 Jun 2025",
       "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1751170699~acl=/*~id=25676215284917687962443221662954~hmac=028bfc4900fc9a22a17e977c7a667dbae6bc03cb55acddc10b924d50b15e195f"
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1751171914~acl=/*~id=30212942904371431259324649428263~hmac=9483048974ddff875c45ceb4c52ae1e73fdda34904c2a3f1e4d84072e04b3223"
     },
     {
       "event_category": "Football",
@@ -26,7 +26,7 @@
       "match_name": "",
       "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1751170699~acl=/*~id=25676215284917687962443221662954~hmac=028bfc4900fc9a22a17e977c7a667dbae6bc03cb55acddc10b924d50b15e195f"
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1751171914~acl=/*~id=30212942904371431259324649428263~hmac=9483048974ddff875c45ceb4c52ae1e73fdda34904c2a3f1e4d84072e04b3223"
     }
   ]
 }
