@@ -3,17 +3,17 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Golf",
+      "event_category": "Cricket",
       "isLive": true,
-      "contentId": 1090484185,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004635/1750950972101918_AsiaTour2025_International_Series_Morocco_Day1_26jun_landscape_thumb.jpg",
-      "broadcast_channel": "LIV",
+      "contentId": 1090483661,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004465/1750432346348806_engvsind25_mens_mixed_disability_7t20i_20jun_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
-      "event_name": "Asian Tour 2025",
-      "match_name": "International Series Morocco - Day 1 - 3 Jul 2025",
-      "dai_url": "https://dai.google.com/ssai/event/Mg5z1zASRuCLCWPg-CXzug/master.m3u8",
-      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Mg5z1zASRuCLCWPg-CXzug/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118982/1090480307/ENG/std_lrl-800300010.m3u8?originpath=/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3894prod-PlaybackConfig/2118982/1090480307/ENG/std_lrl-800300010.m3u8&hdnea=exp=1751561440~acl=/*~id=24186911936469237183671331483529~hmac=74a7762b0ca58bade5f2ad15db9107a887324d5dbd17eb9dc74aa2a728f6514d&hdnea=exp=1751604580~acl=/*~id=93298096008236590823562402790897~hmac=3e736a5f07201b90e02a905db717926de7ce38c67d40982d772615203b55af7c"
+      "event_name": "England vs India Mixed Disability IT20 Series",
+      "match_name": "England vs India Mixed Disability - 7th T20I - 3 Jul 2025",
+      "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1751606400~acl=/*~id=24970439855935095384696666527991~hmac=35c842b4791efa3bb82666a07b92a1dc5b041e10e2153ab20ae15b82f1b4da03"
     }
   ]
 }
