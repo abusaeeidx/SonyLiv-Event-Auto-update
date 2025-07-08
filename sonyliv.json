@@ -5,15 +5,15 @@
     {
       "event_category": "Cricket",
       "isLive": true,
-      "contentId": 1090484413,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004842/1751604349248115_SL_vs_BAN_25_3rdODI_Live_Landscape_thumb.jpg",
+      "contentId": 1090484610,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004640/1750960266875210_VitalityBlast25_mens_Somerset_vs_Essex_26jun_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
-      "event_name": "Bangladesh Tour of Sri Lanka 2025",
-      "match_name": "3rd ODI - 8 Jul 2025",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752036404~acl=/*~id=26622637235157054140314945255777~hmac=f703831fe2b0f8f76a85b0ef1574f07af26e3648d30b0bb265c1852ad7c257e1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752036404~acl=/*~id=26622637235157054140314945255777~hmac=f703831fe2b0f8f76a85b0ef1574f07af26e3648d30b0bb265c1852ad7c257e1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752036404~acl=/*~id=26622637235157054140314945255777~hmac=f703831fe2b0f8f76a85b0ef1574f07af26e3648d30b0bb265c1852ad7c257e1"
+      "event_name": "Vitality Blast 2025",
+      "match_name": "Somerset vs Essex - 8 Jul 2025",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1752038224~acl=/*~id=17987287433665323680307295399480~hmac=06f73fdd4814e8b2723adee8dfb6940c5f82cf151b3de8aa86bdaa5e4bf63bdc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1752038224~acl=/*~id=17987287433665323680307295399480~hmac=06f73fdd4814e8b2723adee8dfb6940c5f82cf151b3de8aa86bdaa5e4bf63bdc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1752038224~acl=/*~id=17987287433665323680307295399480~hmac=06f73fdd4814e8b2723adee8dfb6940c5f82cf151b3de8aa86bdaa5e4bf63bdc"
     }
   ]
 }
