@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Bangladesh Tour of Sri Lanka 2025",
       "match_name": "1st T20I - 10 Jul 2025",
-      "dai_url": "dai://7044GU7mRL2-99W6nrnbzA?hdnea=exp=1752154466~acl=/*~id=55925930489418550019157120989372~hmac=f85d8c8fb9ab4d43fbfd08957b417255cca6626eccf5c465c5bbfa2753e3c941&hdnea=exp=1752197606~acl=/*~id=66384960647047004667936042827366~hmac=8feeb574940b948b95dabeb54c9007c49b78b28084f30ecd2a5f072a7dd7ea1b",
-      "pub_url": "dai://7044GU7mRL2-99W6nrnbzA?hdnea=exp=1752154466~acl=/*~id=55925930489418550019157120989372~hmac=f85d8c8fb9ab4d43fbfd08957b417255cca6626eccf5c465c5bbfa2753e3c941&hdnea=exp=1752197606~acl=/*~id=66384960647047004667936042827366~hmac=8feeb574940b948b95dabeb54c9007c49b78b28084f30ecd2a5f072a7dd7ea1b",
-      "video_url": "dai://7044GU7mRL2-99W6nrnbzA?hdnea=exp=1752154466~acl=/*~id=55925930489418550019157120989372~hmac=f85d8c8fb9ab4d43fbfd08957b417255cca6626eccf5c465c5bbfa2753e3c941&hdnea=exp=1752197606~acl=/*~id=66384960647047004667936042827366~hmac=8feeb574940b948b95dabeb54c9007c49b78b28084f30ecd2a5f072a7dd7ea1b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752200030~acl=/*~id=19562914693291420250051485628021~hmac=c521997b4c425a3b42e81e51a953d16defccc1be4f61ba431c80e6787e2cd646",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752200030~acl=/*~id=19562914693291420250051485628021~hmac=c521997b4c425a3b42e81e51a953d16defccc1be4f61ba431c80e6787e2cd646",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752200030~acl=/*~id=19562914693291420250051485628021~hmac=c521997b4c425a3b42e81e51a953d16defccc1be4f61ba431c80e6787e2cd646"
     }
   ]
 }
