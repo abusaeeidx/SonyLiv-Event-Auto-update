@@ -3,6 +3,19 @@
   "last update time": null,
   "matches": [
     {
+      "event_category": "Archery",
+      "isLive": true,
+      "contentId": 1090484738,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004951/1751899089634730_HAWC_Madrid_Spain25_CompoundTeamFinals_Landscape_thumb_live.jpg",
+      "broadcast_channel": "LIV",
+      "audioLanguageName": "ENG",
+      "event_name": "Hyundai Archery World Cup 2025",
+      "match_name": "Compound Team Finals - 12 Jul 2025",
+      "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752348969~acl=/*~id=54201963748081777696398345009677~hmac=54430fd638acc5e5143815f6a62a8701e5beee3d269f3854d03c01708d046287",
+      "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752348969~acl=/*~id=54201963748081777696398345009677~hmac=54430fd638acc5e5143815f6a62a8701e5beee3d269f3854d03c01708d046287",
+      "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752348969~acl=/*~id=54201963748081777696398345009677~hmac=54430fd638acc5e5143815f6a62a8701e5beee3d269f3854d03c01708d046287"
+    },
+    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090483333,
