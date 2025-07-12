@@ -3,6 +3,19 @@
   "last update time": null,
   "matches": [
     {
+      "event_category": "Racing",
+      "isLive": true,
+      "contentId": 1090484761,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004639/1750956531053327_ABBFEWC25_Round13_Berlin_EPrix_Qualifying_Race_26jun_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 1",
+      "audioLanguageName": "ENG",
+      "event_name": "ABB FIA Formula E World Championship 2024-25",
+      "match_name": "Round 13 - Berlin E-Prix - Qualifying Race - 12 Jul 2025",
+      "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1752353209~acl=/*~id=75436387572727398519909224875596~hmac=aa1ce4aafeeb12cfd94f98ac580088c273e78c49a50087d6a8c578f5d09dec14"
+    },
+    {
       "event_category": "Archery",
       "isLive": true,
       "contentId": 1090484738,
@@ -11,9 +24,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Hyundai Archery World Cup 2025",
       "match_name": "Compound Team Finals - 12 Jul 2025",
-      "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752351392~acl=/*~id=97219960443075411848549771124217~hmac=770344c0a4da5b781266082ac2c9e36afd2cb96695ff920a40ba8967ee5ccf93",
-      "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752351392~acl=/*~id=97219960443075411848549771124217~hmac=770344c0a4da5b781266082ac2c9e36afd2cb96695ff920a40ba8967ee5ccf93",
-      "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752351392~acl=/*~id=97219960443075411848549771124217~hmac=770344c0a4da5b781266082ac2c9e36afd2cb96695ff920a40ba8967ee5ccf93"
+      "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752353209~acl=/*~id=75436387572727398519909224875596~hmac=aa1ce4aafeeb12cfd94f98ac580088c273e78c49a50087d6a8c578f5d09dec14",
+      "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752353209~acl=/*~id=75436387572727398519909224875596~hmac=aa1ce4aafeeb12cfd94f98ac580088c273e78c49a50087d6a8c578f5d09dec14",
+      "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752353209~acl=/*~id=75436387572727398519909224875596~hmac=aa1ce4aafeeb12cfd94f98ac580088c273e78c49a50087d6a8c578f5d09dec14"
     },
     {
       "event_category": "Cricket",
