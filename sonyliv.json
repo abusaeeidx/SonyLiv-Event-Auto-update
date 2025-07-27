@@ -3,19 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Cricket",
-      "isLive": true,
-      "contentId": 1090483662,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005544/1753551518620176_DC25_INDIAN_AIRFORCE_vs_SOUTH_UNITED_26jul_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "IndianOil Durand Cup 2025",
-      "match_name": "Indian Air Force FT vs South United FC - 27 Jul 2025",
-      "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1753673502~acl=/*~id=37796201744085804162755283917431~hmac=7a3f316cb8374402ef6199bfe0276bc8846dce2f8c953a3e02ec2011c652ce89"
-    },
-    {
       "event_category": "Tennis",
       "isLive": true,
       "contentId": 1090483663,
@@ -26,7 +13,7 @@
       "match_name": "Day 1 - 27 Jul 2025",
       "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1753673502~acl=/*~id=37796201744085804162755283917431~hmac=7a3f316cb8374402ef6199bfe0276bc8846dce2f8c953a3e02ec2011c652ce89"
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1753676544~acl=/*~id=76618501518352998704211558983798~hmac=9c9b8b271e49a20eb88cb933f1167ecc9a492e848783a69c673ddcb8c8ae1c4d"
     },
     {
       "event_category": "Cricket",
@@ -39,7 +26,7 @@
       "match_name": " Surrey Women vs Warwickshire Women - Final - 27 Jul 2025",
       "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_lrl.m3u8?hdnea=exp=1753673502~acl=/*~id=37796201744085804162755283917431~hmac=7a3f316cb8374402ef6199bfe0276bc8846dce2f8c953a3e02ec2011c652ce89"
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_lrl.m3u8?hdnea=exp=1753676544~acl=/*~id=76618501518352998704211558983798~hmac=9c9b8b271e49a20eb88cb933f1167ecc9a492e848783a69c673ddcb8c8ae1c4d"
     },
     {
       "event_category": "Racing",
@@ -52,7 +39,7 @@
       "match_name": "Round 16 - London E-Prix - Final Race - 27 Jul 2025",
       "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_lrl.m3u8?hdnea=exp=1753673502~acl=/*~id=37796201744085804162755283917431~hmac=7a3f316cb8374402ef6199bfe0276bc8846dce2f8c953a3e02ec2011c652ce89"
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_lrl.m3u8?hdnea=exp=1753676544~acl=/*~id=76618501518352998704211558983798~hmac=9c9b8b271e49a20eb88cb933f1167ecc9a492e848783a69c673ddcb8c8ae1c4d"
     },
     {
       "event_category": "Cricket",
