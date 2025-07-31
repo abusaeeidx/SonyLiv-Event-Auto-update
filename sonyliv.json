@@ -13,7 +13,20 @@
       "match_name": "Bodoland FC  vs Karbi Anglong Morning Star FC - 31 Jul 2025",
       "dai_url": "https://dai.google.com/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrl-800300010.m3u8?hdnea=exp=1754003380~acl=/*~id=30513425534676001422961051339595~hmac=3c2b6eb0ee4d50bfe88101c5daf3771ac4bfa9d9c997059db896fa0dbc5eff1a"
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrl-800300010.m3u8?hdnea=exp=1754005202~acl=/*~id=88949093124618869046306871833598~hmac=852476401a56b00b2355022d6a83bbb4e2937c5a9fd825c20ff716892b1000ae"
+    },
+    {
+      "event_category": "ESPORTS",
+      "isLive": true,
+      "contentId": 1090485747,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005686/1753900732161316_EWC25_Chess_Quarter_Semi_31jul_hindi_landscape_thumb.jpg",
+      "broadcast_channel": "LIV",
+      "audioLanguageName": "HIN",
+      "event_name": "E Sports World Cup 2025",
+      "match_name": "Chess at EWC 25 - Quarter-Finals & Semi-Finals - 31 Jul 2025",
+      "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1754005202~acl=/*~id=88949093124618869046306871833598~hmac=852476401a56b00b2355022d6a83bbb4e2937c5a9fd825c20ff716892b1000ae"
     },
     {
       "event_category": "Football",
