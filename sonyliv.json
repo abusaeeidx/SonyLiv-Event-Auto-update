@@ -4,12 +4,16 @@
   "matches": [
     {
       "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090484816,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005123/1752479340000499_Durand_cup25_Promo_Landscape_thumb.jpg",
+      "isLive": true,
+      "contentId": 1090483661,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005648/1753839477185880_dc25_Indian_Navy_FT_vs_Real_Kashmir_FC_30jul_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
-      "event_name": "Upcoming - IndianOil Durand Cup 2025"
+      "event_name": "IndianOil Durand Cup 2025",
+      "match_name": "Indian Navy FT vs Real Kashmir FC - 1 Aug 2025",
+      "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1754087084~acl=/*~id=61225989329056529604334128648012~hmac=25c60aafa47ea404e3fae5f5f9a03a4964ae765b83a5365d7551ca6380f5ae14"
     },
     {
       "event_category": "Cricket",
@@ -46,6 +50,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "HIN",
       "event_name": " Upcoming - IndianOil Durand Cup 2025"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090484816,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005123/1752479340000499_Durand_cup25_Promo_Landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - IndianOil Durand Cup 2025"
     }
   ]
 }
