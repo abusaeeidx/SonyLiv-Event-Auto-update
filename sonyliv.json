@@ -4,6 +4,19 @@
   "matches": [
     {
       "event_category": "Football",
+      "isLive": true,
+      "contentId": 1090483661,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005648/1753840688730880_dc25_Tribhuvan_Army_FC_vs_1Ladakh_FC_30jul_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "IndianOil Durand Cup 2025",
+      "match_name": "Tribhuvan Army FC vs 1 Ladakh FC - 2 Aug 2025",
+      "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1754173182~acl=/*~id=53858010303733218121441817735896~hmac=f6f30feec3b903343f38bb7a7ca17ed99a2ecab4d4738d12a347c9688df501df"
+    },
+    {
+      "event_category": "Football",
       "isLive": false,
       "contentId": 1090485724,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005660/1753868354295312_northeast-united-vs-malasyian-FC_landscape.jpg",
