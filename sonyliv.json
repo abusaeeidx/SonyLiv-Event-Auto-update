@@ -3,19 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Tennis",
-      "isLive": true,
-      "contentId": 1090483663,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005511/1753503037265945_ATP_CAnadian_Open25_Round4_Landscape_Thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "ATP Masters 1000 National Bank Open Toronto, Canada",
-      "match_name": "Day 7 - 4 Aug 2025",
-      "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754327124~acl=/*~id=19060217321994974122587759996940~hmac=2d6e4be6d7d8d323a8ac887e8402892579885414a9fe1662375a1f2f6c24d060"
-    },
-    {
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090485838,
