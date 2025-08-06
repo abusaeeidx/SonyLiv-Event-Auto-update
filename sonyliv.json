@@ -14,6 +14,15 @@
     {
       "event_category": "Cricket",
       "isLive": false,
+      "contentId": 1090485567,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005617/1753775660853290_Asia_Cup25_Promo_Landscape_thumb_29Jul.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "HIN",
+      "event_name": "Upcoming - Asia Cup 2025"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": false,
       "contentId": 1090485900,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005807/1754211947176834_The100_25_Promo_Landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
@@ -28,15 +37,6 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "HIN",
       "event_name": "Upcoming - Legen-z T10"
-    },
-    {
-      "event_category": "Cricket",
-      "isLive": false,
-      "contentId": 1090485567,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005617/1753775660853290_Asia_Cup25_Promo_Landscape_thumb_29Jul.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "HIN",
-      "event_name": "Upcoming - Asia Cup 2025"
     },
     {
       "event_category": "Football",
