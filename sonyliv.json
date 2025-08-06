@@ -3,19 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": 1090483662,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005741/1754001988008345_dc25_Emami_East_Bengal_FC_vs_Namdhari_FC_30jul_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "IndianOil Durand Cup 2025",
-      "match_name": "Emami East Bengal FC vs Namdhari FC - 6 Aug 2025",
-      "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754538108~acl=/*~id=73578286248801498638305579612929~hmac=2827019ee09e624f64b22d2db9c71ded58b6d2ab5ffe7f55f872a0c9fc5ac33e"
-    },
-    {
       "event_category": "Cricket",
       "isLive": true,
       "contentId": 1090483666,
@@ -26,7 +13,7 @@
       "match_name": "Manchester Originals vs Southern Brave - 6 Aug 2025",
       "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754538108~acl=/*~id=73578286248801498638305579612929~hmac=2827019ee09e624f64b22d2db9c71ded58b6d2ab5ffe7f55f872a0c9fc5ac33e"
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754540543~acl=/*~id=25518759045386322199460049227509~hmac=736b9821d400e2f261d5acebaf72bf99fe26d6245f7c2e54faf9bfdaee16169d"
     },
     {
       "event_category": "Cricket",
