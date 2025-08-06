@@ -13,7 +13,7 @@
       "match_name": "Emami East Bengal FC vs Namdhari FC - 6 Aug 2025",
       "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754530812~acl=/*~id=17030716030145646361664787120715~hmac=75cd5699c9ab631059d726b55a867e6c7fa504488cda67aedb17419490e6bdfc"
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754533246~acl=/*~id=46037213348356843791521958718665~hmac=58094764808ad9e0081bfe08355e81ec032cd56a117f3425632f836bdf21d5b6"
     },
     {
       "event_category": "Cricket",
@@ -26,7 +26,7 @@
       "match_name": "Manchester Originals vs Southern Brave - 6 Aug 2025",
       "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754530812~acl=/*~id=17030716030145646361664787120715~hmac=75cd5699c9ab631059d726b55a867e6c7fa504488cda67aedb17419490e6bdfc"
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754533246~acl=/*~id=46037213348356843791521958718665~hmac=58094764808ad9e0081bfe08355e81ec032cd56a117f3425632f836bdf21d5b6"
     },
     {
       "event_category": "Cricket",
@@ -81,6 +81,15 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - ATP Master 1000 - Cincinnati Open 2025"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090486095,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005952/1754487263603919_Durand_Cup_Promo_Thumb_06_08_2025_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - IndianOil Durand Cup 2025"
     },
     {
       "event_category": "Football",
