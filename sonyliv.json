@@ -4,19 +4,6 @@
   "matches": [
     {
       "event_category": "Cricket",
-      "isLive": true,
-      "contentId": 1090483666,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005918/1754430679403392_the_hundred_womens25_Manchester_Originals_vs_Southern_Brave_6aug_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "The Hundred 2025 (Women's)",
-      "match_name": "Manchester Originals vs Southern Brave - 6 Aug 2025",
-      "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754540543~acl=/*~id=25518759045386322199460049227509~hmac=736b9821d400e2f261d5acebaf72bf99fe26d6245f7c2e54faf9bfdaee16169d"
-    },
-    {
-      "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090485900,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005807/1754211947176834_The100_25_Promo_Landscape_thumb.jpg",
