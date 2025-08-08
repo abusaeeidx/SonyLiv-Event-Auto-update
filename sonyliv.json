@@ -30,15 +30,6 @@
       "event_name": "Upcoming - Asia Cup 2025"
     },
     {
-      "event_category": "Cricket",
-      "isLive": false,
-      "contentId": 1090486003,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006001/1754554441902372_legenz_5aug_ddt_landscape_thumb_re1.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "HIN",
-      "event_name": "Upcoming - Legen-z T10"
-    },
-    {
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090486168,
@@ -51,7 +42,7 @@
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090485900,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005973/1754510990958891_the_hundred_mens25_Northern_Superchargers_vs_Welsh_Fire_7aug_tonight_landscape_thumb.jpg",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006038/1754591075578419_the_hundred_mens25_Birmingham_Phoenix_vs_Trent_Rockets_7aug_tonight_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - The Hundred 2025"
