@@ -12,15 +12,6 @@
       "event_name": "Upcoming - Crystal Palace vs Liverpool - FA Community Shield 2025"
     },
     {
-      "event_category": "Cricket",
-      "isLive": false,
-      "contentId": 1090485567,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005617/1753775660853290_Asia_Cup25_Promo_Landscape_thumb_29Jul.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "HIN",
-      "event_name": "Upcoming - Asia Cup 2025"
-    },
-    {
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090486033,
@@ -28,6 +19,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "HIN",
       "event_name": "Upcoming - Shillong Lajong FC vs NorthEast United FC - IndianOil Durand Cup 2025"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": false,
+      "contentId": 1090485567,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005617/1753775660853290_Asia_Cup25_Promo_Landscape_thumb_29Jul.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "HIN",
+      "event_name": "Upcoming - Asia Cup 2025"
     },
     {
       "event_category": "Cricket",
