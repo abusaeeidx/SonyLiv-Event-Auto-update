@@ -3,19 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Cricket",
-      "isLive": true,
-      "contentId": 1090483666,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006052/1754635849128152_the_hundred_womens25_Birmingham_Phoenix_vs_Oval_Invincibles_8aug_landscape_thumb-3.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "The Hundred 2025 (Women's)",
-      "match_name": "Birmingham Phoenix vs Oval Invincibles - 12 Aug 2025",
-      "dai_url": "https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8",
-      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118979/Birmin1208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755060578~acl=/*~id=21890315435426743369648803327176~hmac=5d1f7bbd8f0eadacd368cde63e3b4ac9af0bb3f8b0ade78878b65bfbfc7f92b1"
-    },
-    {
       "event_category": "Tennis",
       "isLive": true,
       "contentId": 1090483664,
@@ -26,7 +13,20 @@
       "match_name": "Day 6 - 12 Aug 2025",
       "dai_url": "https://dai.google.com/ssai/event/KwjF4YhYSrugcJgrW0p1-Q/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/KwjF4YhYSrugcJgrW0p1-Q/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118978/ATPCin1208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755060578~acl=/*~id=21890315435426743369648803327176~hmac=5d1f7bbd8f0eadacd368cde63e3b4ac9af0bb3f8b0ade78878b65bfbfc7f92b1"
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118978/ATPCin1208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755061792~acl=/*~id=21847026916641254745731325129289~hmac=16cfafb34ab24098bf5f2557628151e59d4df4dc41c9a9812b7025b755365c15"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": true,
+      "contentId": 1090486391,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006116/1754656556756651_the_hundred_mens25_Birmingham_Phoenix_vs_Oval_Invincibles_8aug_multi_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "The Hundred 2025",
+      "match_name": "Birmingham Phoenix vs Oval Invincibles - 12 Aug 2025",
+      "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+      "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event5_adm/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1755061792~acl=/*~id=21847026916641254745731325129289~hmac=16cfafb34ab24098bf5f2557628151e59d4df4dc41c9a9812b7025b755365c15"
     },
     {
       "event_category": "Football",
