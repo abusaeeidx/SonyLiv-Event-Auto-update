@@ -5,6 +5,15 @@
     {
       "event_category": "Football",
       "isLive": false,
+      "contentId": 1090484816,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005123/1752479340000499_Durand_cup25_Promo_Landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - IndianOil Durand Cup 2025"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
       "contentId": 1090486226,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006226/1754894434982289_UEFA_SuperCup_PSG_vs_Tottenham_8aug_landscape_thumb_ddt.jpg",
       "broadcast_channel": "Sony Sports Ten 2",
@@ -19,15 +28,6 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "HIN",
       "event_name": "Upcoming - Asia Cup 2025"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090484816,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005123/1752479340000499_Durand_cup25_Promo_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - IndianOil Durand Cup 2025"
     },
     {
       "event_category": "Cricket",
