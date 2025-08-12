@@ -13,7 +13,7 @@
       "match_name": "Day 6 - 12 Aug 2025",
       "dai_url": "https://dai.google.com/ssai/event/KwjF4YhYSrugcJgrW0p1-Q/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/KwjF4YhYSrugcJgrW0p1-Q/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118978/ATPCin1208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755066654~acl=/*~id=72079231617012040800690541302307~hmac=225f33d9a7aaa059a39dd56225eef3d26a5c8834ce81f6e0171d569cf59b6d23"
+      "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118978/ATPCin1208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755069082~acl=/*~id=34747114856319715282568121735351~hmac=6d376af6486d30d83345cbc65d27306c07b8dec197235ce83af53e05dd37b73c"
     },
     {
       "event_category": "Cricket",
@@ -26,7 +26,7 @@
       "match_name": "Birmingham Phoenix vs Oval Invincibles - 12 Aug 2025",
       "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event5_adm/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1755066654~acl=/*~id=72079231617012040800690541302307~hmac=225f33d9a7aaa059a39dd56225eef3d26a5c8834ce81f6e0171d569cf59b6d23"
+      "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event5_adm/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1755069082~acl=/*~id=34747114856319715282568121735351~hmac=6d376af6486d30d83345cbc65d27306c07b8dec197235ce83af53e05dd37b73c"
     },
     {
       "event_category": "Football",
@@ -50,7 +50,7 @@
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090485900,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006266/175494204410293_Th100_mens25_Birmingham_Phoenix_vs_Oval_Invincibles_12aug_landscape_thumb_ton.jpg",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006288/1754986087456455_the_hundred_mens25_Welsh_Fire_vs_Manchester_Originals_13aug_tonight_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - The Hundred 2025"
