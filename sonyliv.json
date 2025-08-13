@@ -13,7 +13,7 @@
       "match_name": "Southern Brave vs Northern Superchargers - 13 Aug 2025",
       "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event13_adm/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1755123658~acl=/*~id=16309876018231768890342854589765~hmac=4b63bacb367afbd41ffc9d7f06163f2e760cd48b293eef5d09fb9e1ea627ce9c"
+      "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event13_adm/2022319/DAI15ME-V3/master_lrl.m3u8?{\"error\":\"transfer closed with 1 bytes remaining to read\"}"
     },
     {
       "event_category": "Football",
