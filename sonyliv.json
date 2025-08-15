@@ -24,10 +24,28 @@
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090485900,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006289/1754986226315408_the_hundred_mens25_London_Spirit_vs_Trent_Rockets_14aug_Tonight_landscape_thumb.jpg",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006290/1754985938351832_the_hundred_mens25_Northern_Superchargers_vs_Birmingham_Phoenix_15aug_Tonight_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - The Hundred 2025"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090486628,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006407/1755170408724129_DFL_Supercup25_Stuttgart_vs_Bayern_14aug_dated_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - DFL Supercup 2025 - VfB Stuttgart vs Bayern Munich"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090486616,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006433/17552027845164_Durand-Cup-Promo_15AUG25_Landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "HIN",
+      "event_name": "Upcoming - Quarter-Finals - IndianOil Durand Cup 2025"
     },
     {
       "event_category": "Tennis",
