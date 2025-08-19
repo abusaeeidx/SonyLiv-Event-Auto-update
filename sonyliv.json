@@ -30,6 +30,15 @@
       "event_name": "Upcoming - CLT10"
     },
     {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090486827,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006638/1755535357367672_UCL25-26_Promo_Landscape_thumb_18aug.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Play-offs - Leg 1 - UEFA Champions League 2025-26"
+    },
+    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090485900,
@@ -46,15 +55,6 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - IndianOil Durand Cup 2025"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090486827,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006638/1755535357367672_UCL25-26_Promo_Landscape_thumb_18aug.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Play-offs - Leg 1 - UEFA Champions League 2025-26"
     }
   ]
 }
