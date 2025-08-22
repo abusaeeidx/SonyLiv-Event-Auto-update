@@ -13,9 +13,25 @@
       "match_name": "Lucknow Falcons vs Gaur Gorakhpur Lions - 22 Aug 2025",
       "dai_url": "https://dai.google.com/ssai/event/9Lxh2yCISsOk-GBSbMPx0w/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/9Lxh2yCISsOk-GBSbMPx0w/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3aebprod-PlaybackConfig/2118974/UP_T202208/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755927081~acl=/*~id=55023457149667542668779278103363~hmac=b17886da8d731638c2bef3d528c509b27940cb3749a21fe9492b29f29a08abb2",
+      "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3aebprod-PlaybackConfig/2118974/UP_T202208/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755930125~acl=/*~id=57858990318086506055180212424865~hmac=d4bae7224a8ea26b4ddade2f1ae8e83d24085e8c7da376ecd0c54af1628cda8d",
       "supportedAudioLanguages": [
         "HIN"
+      ]
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": 1090486952,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006818/1755785011481311_Bundesliga_MD1_BayernMunich_vs_RB_Leipzig_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Bundesliga 2025-26",
+      "match_name": "Bayern Munich vs RB Leipzig - MD 1 - 23 Aug 2025",
+      "dai_url": "https://dai.google.com/ssai/event/eK4mtdNpTZODjbb_S6qZcQ/master.m3u8",
+      "pub_url": "https://pubads.g.doubleclick.net/ssai/event/eK4mtdNpTZODjbb_S6qZcQ/master.m3u8",
+      "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf48fprod-PlaybackConfig/2118982/Bayern2208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755930125~acl=/*~id=57858990318086506055180212424865~hmac=d4bae7224a8ea26b4ddade2f1ae8e83d24085e8c7da376ecd0c54af1628cda8d",
+      "supportedAudioLanguages": [
+        "ENG"
       ]
     },
     {
@@ -29,20 +45,11 @@
       "match_name": "Birmingham Phoenix vs Welsh Fire - 22 Aug 2025",
       "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3894prod-PlaybackConfig/2118976/Mens_P2208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755927081~acl=/*~id=55023457149667542668779278103363~hmac=b17886da8d731638c2bef3d528c509b27940cb3749a21fe9492b29f29a08abb2",
+      "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3894prod-PlaybackConfig/2118976/Mens_P2208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755930125~acl=/*~id=57858990318086506055180212424865~hmac=d4bae7224a8ea26b4ddade2f1ae8e83d24085e8c7da376ecd0c54af1628cda8d",
       "supportedAudioLanguages": [
         "ENG",
         "HIN"
       ]
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090487104,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006854/1755858968106702_Bayern_vs_leipzig_landscape.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Bayern Munich vs RB Leipzig"
     },
     {
       "event_category": "Football",
