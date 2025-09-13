@@ -77,6 +77,24 @@
     {
       "event_category": "Cricket",
       "isLive": false,
+      "contentId": 1090489116,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008164/1757748956507577_UAE_vs_OMA_Promo_Landscape_thumb.png",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "HIN",
+      "event_name": "Upcoming - United Arab Emirates vs Oman - Asia Cup 2025"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": false,
+      "contentId": 1090489115,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008164/1757748804192577_SL_vs_HKC_Promo_Landscape_thumb.png",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "HIN",
+      "event_name": "Upcoming - Sri Lanka vs Hong Kong, China - Asia Cup 2025"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": false,
       "contentId": 1090487792,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008089/1757690989463808_ACC25_GEN_landscape_thumb_re1_12SEP.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
