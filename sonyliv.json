@@ -77,6 +77,15 @@
     {
       "event_category": "Cricket",
       "isLive": false,
+      "contentId": 1090489067,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008147/1757710163176219_PROMO_ASIA_CUP_15_SEPTEMBER_COMBO_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "HIN",
+      "event_name": "Upcoming - Asia Cup 2025 - 15 Sep 2025"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": false,
       "contentId": 1090487792,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008089/1757690989463808_ACC25_GEN_landscape_thumb_re1_12SEP.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
