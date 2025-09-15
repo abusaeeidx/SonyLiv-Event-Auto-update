@@ -3,15 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Cricket",
-      "isLive": false,
-      "contentId": 1090489335,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008338/1757869195934684_ACC25_BAN_vs_AFG_14sep_dated_promo_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "HIN",
-      "event_name": "Upcoming - Bangladesh vs Afghanistan - Asia Cup 2025"
-    },
-    {
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090488916,
@@ -46,6 +37,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Newcastle United vs FC Barcelona - UEFA Champions League 2025-26"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": false,
+      "contentId": 1090489335,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008338/1757869195934684_ACC25_BAN_vs_AFG_14sep_dated_promo_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "HIN",
+      "event_name": "Upcoming - Bangladesh vs Afghanistan - Asia Cup 2025"
     },
     {
       "event_category": "Cricket",
