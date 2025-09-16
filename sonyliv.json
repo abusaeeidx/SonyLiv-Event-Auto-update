@@ -13,7 +13,7 @@
       "match_name": "Athletic Club vs Arsenal - MD 1 - 16 Sep 2025",
       "dai_url": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118980/UCL_Athl1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758085726~acl=/*~id=98800514178690913047003908195295~hmac=5c19d8814925c4f1c0f034a7c9f2bc70b5a8ea56e54b7e8d286b0ced6c038baf",
+      "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118980/UCL_Athl1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758089986~acl=/*~id=83263113985355801673664456657241~hmac=d88c7e1e31e5a83b3d2e0574a0b15921fa6b29b8f0bfcab4013fe03511b747d2",
       "supportedAudioLanguages": [
         "ENG"
       ]
@@ -29,7 +29,7 @@
       "match_name": "PSV vs Union SG - MD 1 - 16 Sep 2025",
       "dai_url": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
       "pub_url": "https://pubads.g.doubleclick.net/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2118977/UCL_PSV_1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758085726~acl=/*~id=98800514178690913047003908195295~hmac=5c19d8814925c4f1c0f034a7c9f2bc70b5a8ea56e54b7e8d286b0ced6c038baf",
+      "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2118977/UCL_PSV_1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758089986~acl=/*~id=83263113985355801673664456657241~hmac=d88c7e1e31e5a83b3d2e0574a0b15921fa6b29b8f0bfcab4013fe03511b747d2",
       "supportedAudioLanguages": [
         "ENG"
       ]
@@ -43,9 +43,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Asia Cup 2025",
       "match_name": "Bangladesh vs Afghanistan - 16 Sep 2025",
-      "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758085726~acl=/*~id=98800514178690913047003908195295~hmac=5c19d8814925c4f1c0f034a7c9f2bc70b5a8ea56e54b7e8d286b0ced6c038baf",
-      "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758085726~acl=/*~id=98800514178690913047003908195295~hmac=5c19d8814925c4f1c0f034a7c9f2bc70b5a8ea56e54b7e8d286b0ced6c038baf",
-      "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758085726~acl=/*~id=98800514178690913047003908195295~hmac=5c19d8814925c4f1c0f034a7c9f2bc70b5a8ea56e54b7e8d286b0ced6c038baf",
+      "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758089986~acl=/*~id=83263113985355801673664456657241~hmac=d88c7e1e31e5a83b3d2e0574a0b15921fa6b29b8f0bfcab4013fe03511b747d2",
+      "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758089986~acl=/*~id=83263113985355801673664456657241~hmac=d88c7e1e31e5a83b3d2e0574a0b15921fa6b29b8f0bfcab4013fe03511b747d2",
+      "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758089986~acl=/*~id=83263113985355801673664456657241~hmac=d88c7e1e31e5a83b3d2e0574a0b15921fa6b29b8f0bfcab4013fe03511b747d2",
       "supportedAudioLanguages": [
         "ENG",
         "TAM",
