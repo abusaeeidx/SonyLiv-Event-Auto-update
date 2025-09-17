@@ -21,6 +21,15 @@
       "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2025-26"
     },
     {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090488919,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615589756547_PROMO_UCL_PSG_vs_Atalanta_40_SEC_HOR_APP_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Paris Saint-Germain vs Atalanta - UEFA Champions League 2025-26"
+    },
+    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090489437,
@@ -64,15 +73,6 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - The Best Sporting Action"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090488919,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615589756547_PROMO_UCL_PSG_vs_Atalanta_40_SEC_HOR_APP_landscape.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Paris Saint-Germain vs Atalanta - UEFA Champions League 2025-26"
     },
     {
       "event_category": "Football",
