@@ -39,6 +39,15 @@
       "event_name": "Upcoming - The Best Sporting Action"
     },
     {
+      "event_category": "Tennis",
+      "isLive": false,
+      "contentId": 1090489959,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008731/1758191270258475_Laver_cup_Team_Europe_vs_Team_World_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Laver Cup 2025"
+    },
+    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090487792,
