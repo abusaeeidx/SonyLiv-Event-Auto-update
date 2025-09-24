@@ -5,54 +5,12 @@
     {
       "event_category": "Cricket",
       "isLive": true,
-      "contentId": "1090490527_ENG",
+      "contentId": 1090490527,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758627006369347_ACC25_S4_IND_vs_BAN_Clean_live_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 1",
       "audioLanguageName": "ENG",
       "event_name": "Asia Cup 2025",
-      "match_name": "India vs Bangladesh - Super Four - 24 Sep 2025 [ENG]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricacc12409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricacc12409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricacc12409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
-    },
-    {
-      "event_category": "Cricket",
-      "isLive": true,
-      "contentId": "1090490527_TAM",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758627006369347_ACC25_S4_IND_vs_BAN_Clean_live_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 1",
-      "audioLanguageName": "ENG",
-      "event_name": "Asia Cup 2025",
-      "match_name": "India vs Bangladesh - Super Four - 24 Sep 2025 [TAM]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2119951/cricacc12409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2119951/cricacc12409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2119951/cricacc12409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
-    },
-    {
-      "event_category": "Cricket",
-      "isLive": true,
-      "contentId": "1090490527_TEL",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758627006369347_ACC25_S4_IND_vs_BAN_Clean_live_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 1",
-      "audioLanguageName": "ENG",
-      "event_name": "Asia Cup 2025",
-      "match_name": "India vs Bangladesh - Super Four - 24 Sep 2025 [TEL]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2119941/cricacc12409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2119941/cricacc12409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2119941/cricacc12409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
-    },
-    {
-      "event_category": "Cricket",
-      "isLive": true,
-      "contentId": "1090490527_HIN",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758627006369347_ACC25_S4_IND_vs_BAN_Clean_live_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 1",
-      "audioLanguageName": "ENG",
-      "event_name": "Asia Cup 2025",
-      "match_name": "India vs Bangladesh - Super Four - 24 Sep 2025 [HIN]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
+      "match_name": "India vs Bangladesh - Super Four - 24 Sep 2025"
     },
     {
       "event_category": "Football",
@@ -63,9 +21,9 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Europa League 2025-26",
       "match_name": "Real Betis vs Nottingham Forest - 25 Sep 2025 [ENG]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118980/RealBeti2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118980/RealBeti2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118980/RealBeti2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
+      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118980/RealBeti2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118980/RealBeti2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118980/RealBeti2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96"
     },
     {
       "event_category": "Football",
@@ -76,9 +34,9 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Europa League 2025-26",
       "match_name": "Nice vs Roma - 25 Sep 2025 [ENG]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118978/Nice_vs_2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118978/Nice_vs_2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118978/Nice_vs_2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
+      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118978/Nice_vs_2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118978/Nice_vs_2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118978/Nice_vs_2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96"
     },
     {
       "event_category": "Football",
@@ -89,9 +47,9 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Europa League 2025-26",
       "match_name": "GNK Dinamo vs Fenerbahce - 25 Sep 2025 [ENG]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118979/GNKDinam2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118979/GNKDinam2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118979/GNKDinam2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
+      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118979/GNKDinam2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118979/GNKDinam2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118979/GNKDinam2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96"
     },
     {
       "event_category": "Football",
@@ -102,9 +60,9 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Europa League 2025-26",
       "match_name": "Freiburg vs Basel - 25 Sep 2025 [ENG]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Freiburg2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Freiburg2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Freiburg2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
+      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Freiburg2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Freiburg2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Freiburg2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96"
     },
     {
       "event_category": "Football",
@@ -115,9 +73,9 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Europa League 2025-26",
       "match_name": "Braga vs Feyenoord - 25 Sep 2025 [ENG]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118974/Braga_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118974/Braga_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118974/Braga_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
+      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118974/Braga_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118974/Braga_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118974/Braga_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96"
     },
     {
       "event_category": "Football",
@@ -128,9 +86,9 @@
       "audioLanguageName": "ENG",
       "event_name": " UEFA Europa League 2025-26",
       "match_name": "Crvena Zvezda vs Celtic - 25 Sep 2025 [ENG]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118975/CrvenaZv2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118975/CrvenaZv2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118975/CrvenaZv2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
+      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118975/CrvenaZv2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118975/CrvenaZv2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118975/CrvenaZv2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96"
     },
     {
       "event_category": "Football",
@@ -141,35 +99,9 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Europa League 2025-26",
       "match_name": "Malmö vs Ludogorets - 25 Sep 2025 [ENG]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118976/Malmo_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118976/Malmo_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118976/Malmo_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
-    },
-    {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": "1090490476_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009172/1758625278203591_UEL_25_26_MD_1_PAOK_vs_M_Tel-Aviv_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "UEFA Europa League 2025-26",
-      "match_name": "PAOK vs M. Tel-Aviv - MD 1 - 24 Sep 2025 [ENG]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118981/PAOK_vs_2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118981/PAOK_vs_2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118981/PAOK_vs_2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
-    },
-    {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": "1090490477_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009172/1758635820616591_UEL_25_26_MD_1_Midtjylland_vs_Sturm_Graz_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "UEFA Europa League 2025-26",
-      "match_name": "Midtjylland vs Sturm Graz - 24 Sep 2025 [ENG]",
-      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118982/Midtjyll2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118982/Midtjyll2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d",
-      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118982/Midtjyll2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758782386~acl=/*~id=71477022474403470825223507401446~hmac=b27c8c437c01e9a7582ac75044b3e1aea57d56bb312e888b237d0ecd53a60c3d"
+      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118976/Malmo_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118976/Malmo_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96",
+      "video_url": "https://liveakdai.slivcdn.com/hls/live/2118976/Malmo_vs2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758784216~acl=/*~id=29165568009497600656267801645229~hmac=0cb99a01c6fdc3021a23e4015a02c966510b279a8e609dc1b813d8b44fe21d96"
     },
     {
       "event_category": "Football",
