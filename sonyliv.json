@@ -3,6 +3,19 @@
   "last update time": null,
   "matches": [
     {
+      "event_category": "Sports",
+      "isLive": true,
+      "contentId": "1090490865_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893279089701_World_Para_Athletics_Championships_2025_DAY_1_landscape_thumb.jpg",
+      "broadcast_channel": "LIV",
+      "audioLanguageName": "ENG",
+      "event_name": "World Para Athletics, New Delhi",
+      "match_name": "Day 1 - 27 Sep 2025 [ENG]",
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759015791~acl=/*~id=33896464945393431293716205559969~hmac=05e873f4e35b9464cf89e3f942d3223c04fe5972be26e32892080888e32fb686",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759015791~acl=/*~id=33896464945393431293716205559969~hmac=05e873f4e35b9464cf89e3f942d3223c04fe5972be26e32892080888e32fb686",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759015791~acl=/*~id=33896464945393431293716205559969~hmac=05e873f4e35b9464cf89e3f942d3223c04fe5972be26e32892080888e32fb686"
+    },
+    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090490886,
