@@ -3,16 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Fight Sports",
-      "isLive": true,
-      "contentId": 1090491002,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009409/1758880259800690_UFC_Fight_Night_Ulberg_vs_Reyes_multi_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "UFC Fight Night - Ulberg vs Reyes",
-      "match_name": "UFC Fight Night - Ulberg vs Reyes - 28 Sep 2025 "
-    },
-    {
       "event_category": "Sports",
       "isLive": true,
       "contentId": "1090490982_ENG",
@@ -21,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "World Para Athletics, New Delhi",
       "match_name": "Day 2 - 28 Sep 2025 [ENG]",
-      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759077225~acl=/*~id=50472399539461857807648725365627~hmac=d1c3539278405142164b3d6ddcd45fc0ed38e4a7681b4afe07971e35a527b488",
-      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759077225~acl=/*~id=50472399539461857807648725365627~hmac=d1c3539278405142164b3d6ddcd45fc0ed38e4a7681b4afe07971e35a527b488",
-      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759077225~acl=/*~id=50472399539461857807648725365627~hmac=d1c3539278405142164b3d6ddcd45fc0ed38e4a7681b4afe07971e35a527b488"
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759080874~acl=/*~id=37776407150054622379210714674719~hmac=2c7d439804c9c044230563f4251b852882d94fe58ba00d1690bd4c51748a60c7",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759080874~acl=/*~id=37776407150054622379210714674719~hmac=2c7d439804c9c044230563f4251b852882d94fe58ba00d1690bd4c51748a60c7",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759080874~acl=/*~id=37776407150054622379210714674719~hmac=2c7d439804c9c044230563f4251b852882d94fe58ba00d1690bd4c51748a60c7"
     },
     {
       "event_category": "Archery",
@@ -34,9 +24,9 @@
       "audioLanguageName": "ENG",
       "event_name": "World Archery Para Championships 2025",
       "match_name": "Recurve Finals - 28 Sep 2025 [ENG]",
-      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759077225~acl=/*~id=50472399539461857807648725365627~hmac=d1c3539278405142164b3d6ddcd45fc0ed38e4a7681b4afe07971e35a527b488",
-      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759077225~acl=/*~id=50472399539461857807648725365627~hmac=d1c3539278405142164b3d6ddcd45fc0ed38e4a7681b4afe07971e35a527b488",
-      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759077225~acl=/*~id=50472399539461857807648725365627~hmac=d1c3539278405142164b3d6ddcd45fc0ed38e4a7681b4afe07971e35a527b488"
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759080874~acl=/*~id=37776407150054622379210714674719~hmac=2c7d439804c9c044230563f4251b852882d94fe58ba00d1690bd4c51748a60c7",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759080874~acl=/*~id=37776407150054622379210714674719~hmac=2c7d439804c9c044230563f4251b852882d94fe58ba00d1690bd4c51748a60c7",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759080874~acl=/*~id=37776407150054622379210714674719~hmac=2c7d439804c9c044230563f4251b852882d94fe58ba00d1690bd4c51748a60c7"
     },
     {
       "event_category": "Football",
@@ -84,15 +74,6 @@
       "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2025-26"
     },
     {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090490631,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705834385323_UCL_MD2_Chelea_vs_Benficia_Promo_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Chelsea vs Benfica - UEFA Champions League 2025-26"
-    },
-    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090490903,
@@ -118,6 +99,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Monaco vs Man City - UEFA Champions League 2025-26"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090490631,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705834385323_UCL_MD2_Chelea_vs_Benficia_Promo_Landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Chelsea vs Benfica - UEFA Champions League 2025-26"
     },
     {
       "event_category": "Football",
