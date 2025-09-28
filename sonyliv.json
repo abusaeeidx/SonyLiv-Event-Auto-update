@@ -3,6 +3,71 @@
   "last update time": null,
   "matches": [
     {
+      "event_category": "Fight Sports",
+      "isLive": true,
+      "contentId": "1090491002_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009409/1758880259800690_UFC_Fight_Night_Ulberg_vs_Reyes_multi_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "UFC Fight Night - Ulberg vs Reyes",
+      "match_name": "UFC Fight Night - Ulberg vs Reyes - 28 Sep 2025  [ENG]",
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c"
+    },
+    {
+      "event_category": "Fight Sports",
+      "isLive": true,
+      "contentId": "1090491002_HIN",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009409/1758880259800690_UFC_Fight_Night_Ulberg_vs_Reyes_multi_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "UFC Fight Night - Ulberg vs Reyes",
+      "match_name": "UFC Fight Night - Ulberg vs Reyes - 28 Sep 2025  [HIN]",
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c"
+    },
+    {
+      "event_category": "Fight Sports",
+      "isLive": true,
+      "contentId": "1090491002_TAM",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009409/1758880259800690_UFC_Fight_Night_Ulberg_vs_Reyes_multi_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "UFC Fight Night - Ulberg vs Reyes",
+      "match_name": "UFC Fight Night - Ulberg vs Reyes - 28 Sep 2025  [TAM]",
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c"
+    },
+    {
+      "event_category": "Fight Sports",
+      "isLive": true,
+      "contentId": "1090491002_TEL",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009409/1758880259800690_UFC_Fight_Night_Ulberg_vs_Reyes_multi_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "UFC Fight Night - Ulberg vs Reyes",
+      "match_name": "UFC Fight Night - Ulberg vs Reyes - 28 Sep 2025  [TEL]",
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c"
+    },
+    {
+      "event_category": "Sports",
+      "isLive": true,
+      "contentId": "1090490982_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893258026701_World_Para_Athletics_Championships_2025_DAY_2_landscape_thumb.jpg",
+      "broadcast_channel": "LIV",
+      "audioLanguageName": "ENG",
+      "event_name": "World Para Athletics, New Delhi",
+      "match_name": "Day 2 - 28 Sep 2025 [ENG]",
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c"
+    },
+    {
       "event_category": "Archery",
       "isLive": true,
       "contentId": "1090490981_ENG",
@@ -11,9 +76,9 @@
       "audioLanguageName": "ENG",
       "event_name": "World Archery Para Championships 2025",
       "match_name": "W1 Finals - 28 Sep 2025 [ENG]",
-      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759065648~acl=/*~id=24206779542260592345826092916180~hmac=b92792e577a94f51972bc88ec6673f433f01c469321bf50466f0223e140ebd6c",
-      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759065648~acl=/*~id=24206779542260592345826092916180~hmac=b92792e577a94f51972bc88ec6673f433f01c469321bf50466f0223e140ebd6c",
-      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759065648~acl=/*~id=24206779542260592345826092916180~hmac=b92792e577a94f51972bc88ec6673f433f01c469321bf50466f0223e140ebd6c"
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759073574~acl=/*~id=02833730390267672356495631010919~hmac=3130669037288e6772a32f5c9c9abff55405f6052c17065b8ba82c448182d23c"
     },
     {
       "event_category": "Football",
@@ -61,24 +126,6 @@
       "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2025-26"
     },
     {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090490631,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705834385323_UCL_MD2_Chelea_vs_Benficia_Promo_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Chelsea vs Benfica - UEFA Champions League 2025-26"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090490626,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758706013477323_UCL_MD2_Monaco_vs_ManCity_Promo_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Monaco vs Man City - UEFA Champions League 2025-26"
-    },
-    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090490903,
@@ -95,6 +142,24 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "HIN",
       "event_name": "Upcoming - Asia Cup 2025"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090490626,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758706013477323_UCL_MD2_Monaco_vs_ManCity_Promo_Landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Monaco vs Man City - UEFA Champions League 2025-26"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090490631,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705834385323_UCL_MD2_Chelea_vs_Benficia_Promo_Landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Chelsea vs Benfica - UEFA Champions League 2025-26"
     },
     {
       "event_category": "Football",
