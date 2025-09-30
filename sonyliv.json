@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Champions League 2025-26",
       "match_name": "Kairat Almaty vs Real Madrid - MD 2 - 30 Sep 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759296866~acl=/*~id=92384812811521891042358606109768~hmac=6335b6df44f34b908a8f1ecf01a4efadc65b0d9761bfd0f80ba5318325c29a91",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759296866~acl=/*~id=92384812811521891042358606109768~hmac=6335b6df44f34b908a8f1ecf01a4efadc65b0d9761bfd0f80ba5318325c29a91",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759296866~acl=/*~id=92384812811521891042358606109768~hmac=6335b6df44f34b908a8f1ecf01a4efadc65b0d9761bfd0f80ba5318325c29a91"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299305~acl=/*~id=71979482871905042161280963534371~hmac=652bbb355f14dc395fc62115d475aee4f2e7d2eb0de2c6f4b3af1fc837f5d0d8",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299305~acl=/*~id=71979482871905042161280963534371~hmac=652bbb355f14dc395fc62115d475aee4f2e7d2eb0de2c6f4b3af1fc837f5d0d8",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299305~acl=/*~id=71979482871905042161280963534371~hmac=652bbb355f14dc395fc62115d475aee4f2e7d2eb0de2c6f4b3af1fc837f5d0d8"
     },
     {
       "event_category": "Football",
@@ -24,9 +24,9 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Champions League 2025-26",
       "match_name": "Atalanta vs Club Brugge  - MD 2 - 30 Sep 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759296866~acl=/*~id=92384812811521891042358606109768~hmac=6335b6df44f34b908a8f1ecf01a4efadc65b0d9761bfd0f80ba5318325c29a91",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759296866~acl=/*~id=92384812811521891042358606109768~hmac=6335b6df44f34b908a8f1ecf01a4efadc65b0d9761bfd0f80ba5318325c29a91",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759296866~acl=/*~id=92384812811521891042358606109768~hmac=6335b6df44f34b908a8f1ecf01a4efadc65b0d9761bfd0f80ba5318325c29a91"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299305~acl=/*~id=71979482871905042161280963534371~hmac=652bbb355f14dc395fc62115d475aee4f2e7d2eb0de2c6f4b3af1fc837f5d0d8",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299305~acl=/*~id=71979482871905042161280963534371~hmac=652bbb355f14dc395fc62115d475aee4f2e7d2eb0de2c6f4b3af1fc837f5d0d8",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759299305~acl=/*~id=71979482871905042161280963534371~hmac=652bbb355f14dc395fc62115d475aee4f2e7d2eb0de2c6f4b3af1fc837f5d0d8"
     },
     {
       "event_category": "Football",
@@ -41,19 +41,10 @@
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090491245,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009650/1759244278551934_AUSvsNZ_dated_30sep25_landscape_thumb.jpg",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009655/1759232578000127_NZvsAUS_2025_Landscape_Thumb_Dated.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Australia Tour of New Zealand 2025"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090490629,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705771154323_UCL_MD2_Galatasaray_vs_Liverpool_Promo_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Galatasaray vs Liverpool - UEFA Champions League 2025-26"
     },
     {
       "event_category": "Football",
@@ -108,15 +99,6 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - The Best Sporting Action"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090491275,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009646/1759238935722279_PROMO_UCL_02nd_OCT_COMBO_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Matchday 2 - 2 Oct 2025 - UEFA Champions League 2025-26"
     }
   ]
 }
