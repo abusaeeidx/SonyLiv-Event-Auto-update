@@ -3,6 +3,19 @@
   "last update time": null,
   "matches": [
     {
+      "event_category": "Tennis",
+      "isLive": true,
+      "contentId": "1090491215_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009657/175925232856558_ATP1000_Shanghai_Masters_30sep_round1_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
+      "match_name": "Day 1 - 1 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759335232~acl=/*~id=53025964892754780843268932982008~hmac=c2eb356d0bf996c43bcd0cb0a38b45b74d9bb369995b0f0213ce3f64552f6d28",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759335232~acl=/*~id=53025964892754780843268932982008~hmac=c2eb356d0bf996c43bcd0cb0a38b45b74d9bb369995b0f0213ce3f64552f6d28",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759335232~acl=/*~id=53025964892754780843268932982008~hmac=c2eb356d0bf996c43bcd0cb0a38b45b74d9bb369995b0f0213ce3f64552f6d28"
+    },
+    {
       "event_category": "Sports",
       "isLive": true,
       "contentId": "1090491206_ENG",
@@ -11,9 +24,9 @@
       "audioLanguageName": "ENG",
       "event_name": "World Para Athletics, New Delhi",
       "match_name": "Day 5 - 1 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759332796~acl=/*~id=22429220886138515806671192004791~hmac=22c43a0493e8a8b588194eb2941d0e747e2b54aec18fe2e79fe0d025344ad66a",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759332796~acl=/*~id=22429220886138515806671192004791~hmac=22c43a0493e8a8b588194eb2941d0e747e2b54aec18fe2e79fe0d025344ad66a",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759332796~acl=/*~id=22429220886138515806671192004791~hmac=22c43a0493e8a8b588194eb2941d0e747e2b54aec18fe2e79fe0d025344ad66a"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759335232~acl=/*~id=53025964892754780843268932982008~hmac=c2eb356d0bf996c43bcd0cb0a38b45b74d9bb369995b0f0213ce3f64552f6d28",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759335232~acl=/*~id=53025964892754780843268932982008~hmac=c2eb356d0bf996c43bcd0cb0a38b45b74d9bb369995b0f0213ce3f64552f6d28",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759335232~acl=/*~id=53025964892754780843268932982008~hmac=c2eb356d0bf996c43bcd0cb0a38b45b74d9bb369995b0f0213ce3f64552f6d28"
     },
     {
       "event_category": "Cricket",
@@ -28,7 +41,7 @@
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090490630,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009540/1759052764515903_UCL2526_Barcelona_vs_PSG_26sep_dated_landscape_thumb.jpg",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009671/1759271384954962_UCL2526_Barcelona_vs_PSG_26sep_tonight_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Barcelona vs PSG - UEFA Champions League 2025-26"
