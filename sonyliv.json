@@ -3,32 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Tennis",
-      "isLive": true,
-      "contentId": "1090491215_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009657/175925232856558_ATP1000_Shanghai_Masters_30sep_round1_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
-      "match_name": "Day 1 - 1 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759372453~acl=/*~id=33124029725546931348602415567825~hmac=925e399b4a816633f4fb67681984d78703c7bd3d17a7048595b9654ec05d50b0",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759372453~acl=/*~id=33124029725546931348602415567825~hmac=925e399b4a816633f4fb67681984d78703c7bd3d17a7048595b9654ec05d50b0",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759372453~acl=/*~id=33124029725546931348602415567825~hmac=925e399b4a816633f4fb67681984d78703c7bd3d17a7048595b9654ec05d50b0"
-    },
-    {
-      "event_category": "Sports",
-      "isLive": true,
-      "contentId": "1090491207_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893204885701_World_Para_Athletics_Championships_2025_DAY_5_landscape_thumb.jpg",
-      "broadcast_channel": "LIV",
-      "audioLanguageName": "ENG",
-      "event_name": "World Para Athletics, New Delhi",
-      "match_name": "Day 5 - 1 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759372453~acl=/*~id=33124029725546931348602415567825~hmac=925e399b4a816633f4fb67681984d78703c7bd3d17a7048595b9654ec05d50b0",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759372453~acl=/*~id=33124029725546931348602415567825~hmac=925e399b4a816633f4fb67681984d78703c7bd3d17a7048595b9654ec05d50b0",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759372453~acl=/*~id=33124029725546931348602415567825~hmac=925e399b4a816633f4fb67681984d78703c7bd3d17a7048595b9654ec05d50b0"
-    },
-    {
       "event_category": "Football",
       "isLive": true,
       "contentId": "1090491220_ENG",
@@ -37,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Youth League 2025-26",
       "match_name": "Barcelona vs PSG - MD 2 - 1 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759372453~acl=/*~id=33124029725546931348602415567825~hmac=925e399b4a816633f4fb67681984d78703c7bd3d17a7048595b9654ec05d50b0",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759372453~acl=/*~id=33124029725546931348602415567825~hmac=925e399b4a816633f4fb67681984d78703c7bd3d17a7048595b9654ec05d50b0",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759372453~acl=/*~id=33124029725546931348602415567825~hmac=925e399b4a816633f4fb67681984d78703c7bd3d17a7048595b9654ec05d50b0"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759374900~acl=/*~id=43320885305242097774700613685142~hmac=9165d635f47608fef6cf872b1c0f83061a243030ba97b2c8c802e3e176597941",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759374900~acl=/*~id=43320885305242097774700613685142~hmac=9165d635f47608fef6cf872b1c0f83061a243030ba97b2c8c802e3e176597941",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759374900~acl=/*~id=43320885305242097774700613685142~hmac=9165d635f47608fef6cf872b1c0f83061a243030ba97b2c8c802e3e176597941"
     },
     {
       "event_category": "Football",
@@ -90,7 +64,7 @@
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090491245,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009650/1759244268954934_AUSvsNZ_today_30sep25_landscape_thumb.jpg",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009655/1759232578000127_NZvsAUS_2025_Landscape_Thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Australia Tour of New Zealand 2025"
