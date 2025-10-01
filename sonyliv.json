@@ -5,15 +5,28 @@
     {
       "event_category": "Football",
       "isLive": true,
-      "contentId": "1090491220_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009684/1759297011444654_UYL24_Barcelona_vs_Paris_Live_1OCT_Landscape_thumb.jpg",
+      "contentId": "1090491227_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009631/1759213446944249_UCL26_MD2_Union_SG_vs_Newcastle_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
-      "event_name": "UEFA Youth League 2025-26",
-      "match_name": "Barcelona vs PSG - MD 2 - 1 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759376123~acl=/*~id=19310658767707791231543930367224~hmac=11b77def2bc49214cac8b9eb4c3832155cf25b12da38b7ab186f9424cefa25af",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759376123~acl=/*~id=19310658767707791231543930367224~hmac=11b77def2bc49214cac8b9eb4c3832155cf25b12da38b7ab186f9424cefa25af",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759376123~acl=/*~id=19310658767707791231543930367224~hmac=11b77def2bc49214cac8b9eb4c3832155cf25b12da38b7ab186f9424cefa25af"
+      "event_name": "UEFA Champions League 2025-26",
+      "match_name": "Union SG vs Newcastle - MD 2 - 1 Oct 2025  [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759378565~acl=/*~id=25075503761432429861738539659427~hmac=cea8f5780d910fe0b30ca7de5299638b96f2664f08ec04efff8e200f9c988122",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759378565~acl=/*~id=25075503761432429861738539659427~hmac=cea8f5780d910fe0b30ca7de5299638b96f2664f08ec04efff8e200f9c988122",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759378565~acl=/*~id=25075503761432429861738539659427~hmac=cea8f5780d910fe0b30ca7de5299638b96f2664f08ec04efff8e200f9c988122"
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090491228_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814297135623_UCL26_MD2_Qarabag_vs_Copenhagen_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "UEFA Champions League 2025-26",
+      "match_name": "Qarabag vs Copenhagen - MD 2 - 1 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759378565~acl=/*~id=25075503761432429861738539659427~hmac=cea8f5780d910fe0b30ca7de5299638b96f2664f08ec04efff8e200f9c988122",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759378565~acl=/*~id=25075503761432429861738539659427~hmac=cea8f5780d910fe0b30ca7de5299638b96f2664f08ec04efff8e200f9c988122",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759378565~acl=/*~id=25075503761432429861738539659427~hmac=cea8f5780d910fe0b30ca7de5299638b96f2664f08ec04efff8e200f9c988122"
     },
     {
       "event_category": "Football",
