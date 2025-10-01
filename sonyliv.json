@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
       "match_name": "Day 1 - 1 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759338891~acl=/*~id=72564933877088629834444736222209~hmac=0e72a579d32ee31e7396ae678735372e280460708e32f8f685e59203dea4d257",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759338891~acl=/*~id=72564933877088629834444736222209~hmac=0e72a579d32ee31e7396ae678735372e280460708e32f8f685e59203dea4d257",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759338891~acl=/*~id=72564933877088629834444736222209~hmac=0e72a579d32ee31e7396ae678735372e280460708e32f8f685e59203dea4d257"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759340111~acl=/*~id=71832770228896528068983615950463~hmac=00cbfc31acac809f163b9b516f01953419a10226a6a9ecfc93b81bd108a176c0",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759340111~acl=/*~id=71832770228896528068983615950463~hmac=00cbfc31acac809f163b9b516f01953419a10226a6a9ecfc93b81bd108a176c0",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759340111~acl=/*~id=71832770228896528068983615950463~hmac=00cbfc31acac809f163b9b516f01953419a10226a6a9ecfc93b81bd108a176c0"
     },
     {
       "event_category": "Sports",
@@ -24,18 +24,9 @@
       "audioLanguageName": "ENG",
       "event_name": "World Para Athletics, New Delhi",
       "match_name": "Day 5 - 1 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759338891~acl=/*~id=72564933877088629834444736222209~hmac=0e72a579d32ee31e7396ae678735372e280460708e32f8f685e59203dea4d257",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759338891~acl=/*~id=72564933877088629834444736222209~hmac=0e72a579d32ee31e7396ae678735372e280460708e32f8f685e59203dea4d257",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759338891~acl=/*~id=72564933877088629834444736222209~hmac=0e72a579d32ee31e7396ae678735372e280460708e32f8f685e59203dea4d257"
-    },
-    {
-      "event_category": "Cricket",
-      "isLive": false,
-      "contentId": 1090491245,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009650/1759244268954934_AUSvsNZ_today_30sep25_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Australia Tour of New Zealand 2025"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759340111~acl=/*~id=71832770228896528068983615950463~hmac=00cbfc31acac809f163b9b516f01953419a10226a6a9ecfc93b81bd108a176c0",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759340111~acl=/*~id=71832770228896528068983615950463~hmac=00cbfc31acac809f163b9b516f01953419a10226a6a9ecfc93b81bd108a176c0",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759340111~acl=/*~id=71832770228896528068983615950463~hmac=00cbfc31acac809f163b9b516f01953419a10226a6a9ecfc93b81bd108a176c0"
     },
     {
       "event_category": "Football",
@@ -45,6 +36,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Barcelona vs PSG - UEFA Champions League 2025-26"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": false,
+      "contentId": 1090491245,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009650/1759244268954934_AUSvsNZ_today_30sep25_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Australia Tour of New Zealand 2025"
     },
     {
       "event_category": "Football",
