@@ -11,22 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Europa League 2025-26",
       "match_name": "Roma vs Lille - MD 2 - 2 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759466368~acl=/*~id=03824262826722744376436145732430~hmac=0dfa6a3fa7e7bbe91094143d39662599e770e45accbf3c4c91ecbd953eac08cd",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759466368~acl=/*~id=03824262826722744376436145732430~hmac=0dfa6a3fa7e7bbe91094143d39662599e770e45accbf3c4c91ecbd953eac08cd",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759466368~acl=/*~id=03824262826722744376436145732430~hmac=0dfa6a3fa7e7bbe91094143d39662599e770e45accbf3c4c91ecbd953eac08cd"
-    },
-    {
-      "event_category": "Archery",
-      "isLive": true,
-      "contentId": "1090491527_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009775/175940949677782_ATP25_Day1_Landscape_thumb_2oct.jpg",
-      "broadcast_channel": "LIV",
-      "audioLanguageName": "ENG",
-      "event_name": "Archery Premier League 2025",
-      "match_name": "Prithviraaj Yodhas vs Rajputana Royals - 2 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759466368~acl=/*~id=03824262826722744376436145732430~hmac=0dfa6a3fa7e7bbe91094143d39662599e770e45accbf3c4c91ecbd953eac08cd",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759466368~acl=/*~id=03824262826722744376436145732430~hmac=0dfa6a3fa7e7bbe91094143d39662599e770e45accbf3c4c91ecbd953eac08cd",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759466368~acl=/*~id=03824262826722744376436145732430~hmac=0dfa6a3fa7e7bbe91094143d39662599e770e45accbf3c4c91ecbd953eac08cd"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759468195~acl=/*~id=22111827385409782084964980612628~hmac=bb1e9e835bdb4d2dce17c229c133c1181fed5c49ae7267dac1ec65b474e6e233",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759468195~acl=/*~id=22111827385409782084964980612628~hmac=bb1e9e835bdb4d2dce17c229c133c1181fed5c49ae7267dac1ec65b474e6e233",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759468195~acl=/*~id=22111827385409782084964980612628~hmac=bb1e9e835bdb4d2dce17c229c133c1181fed5c49ae7267dac1ec65b474e6e233"
     },
     {
       "event_category": "Football",
