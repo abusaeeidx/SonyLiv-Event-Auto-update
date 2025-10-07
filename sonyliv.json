@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
       "match_name": "Day 7 - 7 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759887810~acl=/*~id=65704759123532032662350424654343~hmac=59667d91bf971b0be143e133be715df06359260c6bcd17fbed9d5f1e6f109a47",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759887810~acl=/*~id=65704759123532032662350424654343~hmac=59667d91bf971b0be143e133be715df06359260c6bcd17fbed9d5f1e6f109a47",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759887810~acl=/*~id=65704759123532032662350424654343~hmac=59667d91bf971b0be143e133be715df06359260c6bcd17fbed9d5f1e6f109a47"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759889655~acl=/*~id=84259116021002197540199337070822~hmac=ea3110f238083f7a5dfc9c8c9aec5a31051815e7ebbb53af3960882ee37228b4",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759889655~acl=/*~id=84259116021002197540199337070822~hmac=ea3110f238083f7a5dfc9c8c9aec5a31051815e7ebbb53af3960882ee37228b4",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759889655~acl=/*~id=84259116021002197540199337070822~hmac=ea3110f238083f7a5dfc9c8c9aec5a31051815e7ebbb53af3960882ee37228b4"
     },
     {
       "event_category": "Football",
@@ -32,6 +32,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Malta vs Netherlands - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090491896,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009968/1759845069408971_Germany_vs_Luxembourg_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Germany vs Luxembourg - European Qualifiers for 2026 FIFA World Cup"
     },
     {
       "event_category": "Football",
