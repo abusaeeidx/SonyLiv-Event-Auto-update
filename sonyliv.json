@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
       "match_name": "Day 7 - 7 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759883531~acl=/*~id=53421253520200284063483369205156~hmac=2115dfcd90c40f610bc6d13989856b379991f1a4502def5029768e7a5aec3266",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759883531~acl=/*~id=53421253520200284063483369205156~hmac=2115dfcd90c40f610bc6d13989856b379991f1a4502def5029768e7a5aec3266",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759883531~acl=/*~id=53421253520200284063483369205156~hmac=2115dfcd90c40f610bc6d13989856b379991f1a4502def5029768e7a5aec3266"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759886585~acl=/*~id=83119439179777265426992601712340~hmac=68d8ed6214f5bc68dc6d3b72e2aa235d9b40c6aab91f0ea452c8c447ec3b5712",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759886585~acl=/*~id=83119439179777265426992601712340~hmac=68d8ed6214f5bc68dc6d3b72e2aa235d9b40c6aab91f0ea452c8c447ec3b5712",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759886585~acl=/*~id=83119439179777265426992601712340~hmac=68d8ed6214f5bc68dc6d3b72e2aa235d9b40c6aab91f0ea452c8c447ec3b5712"
     },
     {
       "event_category": "Football",
@@ -23,15 +23,6 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
-    },
-    {
-      "event_category": "Archery",
-      "isLive": false,
-      "contentId": 1090491525,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
-      "broadcast_channel": "LIV",
-      "audioLanguageName": "HIN",
-      "event_name": "Upcoming - Archery Premier League 2025"
     },
     {
       "event_category": "Football",
@@ -45,20 +36,20 @@
     {
       "event_category": "Football",
       "isLive": false,
+      "contentId": 1090491892,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826282927296_EQ_Promo_Portugal-vs-Republic-of-Ireland_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Portugal vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
       "contentId": 1090491891,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826191816296_EQ_Promo_Spain-vs-Georgia_landscape.jpg",
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Spain vs Georgia - European Qualifiers for 2026 FIFA World Cup"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090491890,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826225455296_EQ_Promo_Zcechia-v-Croatia_landscape.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Czechia vs Croatia - European Qualifiers for 2026 FIFA World Cup"
     },
     {
       "event_category": "Cricket",
@@ -68,6 +59,15 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - England Tour of New Zealand 2025"
+    },
+    {
+      "event_category": "Archery",
+      "isLive": false,
+      "contentId": 1090491525,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
+      "broadcast_channel": "LIV",
+      "audioLanguageName": "HIN",
+      "event_name": "Upcoming - Archery Premier League 2025"
     },
     {
       "event_category": "Cricket",
@@ -81,20 +81,20 @@
     {
       "event_category": "Football",
       "isLive": false,
+      "contentId": 1090491890,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826225455296_EQ_Promo_Zcechia-v-Croatia_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Czechia vs Croatia - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
       "contentId": 1090491894,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825550656296_EQ_Promo_France_vs_Azerbaijan_landscape.jpg",
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - France vs Azerbaijan - European Qualifiers for 2026 FIFA World Cup"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090491892,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826282927296_EQ_Promo_Portugal-vs-Republic-of-Ireland_landscape.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Portugal vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
     },
     {
       "event_category": "Football",
