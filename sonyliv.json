@@ -3,19 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Tennis",
-      "isLive": true,
-      "contentId": "1090491801_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009657/175925330553358_ATP1000_Shanghai_Masters_30sep_round4_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
-      "match_name": "Day 7 - 7 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759898210~acl=/*~id=50846976515253111738066339353786~hmac=0b99c716a0e7dd8231e480602048a3c60c4eb50ebdf360956ef0b4e389896eba",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759898210~acl=/*~id=50846976515253111738066339353786~hmac=0b99c716a0e7dd8231e480602048a3c60c4eb50ebdf360956ef0b4e389896eba",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759898210~acl=/*~id=50846976515253111738066339353786~hmac=0b99c716a0e7dd8231e480602048a3c60c4eb50ebdf360956ef0b4e389896eba"
-    },
-    {
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090491833,
