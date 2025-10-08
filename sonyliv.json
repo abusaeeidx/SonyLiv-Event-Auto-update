@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
       "match_name": "Day 8 - 8 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759951755~acl=/*~id=59191341384736276783612300029545~hmac=8f8a706394a7d7574ffb15419c9077bda49bc6c400dd36b805c90af7cb5e7b2d",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759951755~acl=/*~id=59191341384736276783612300029545~hmac=8f8a706394a7d7574ffb15419c9077bda49bc6c400dd36b805c90af7cb5e7b2d",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759951755~acl=/*~id=59191341384736276783612300029545~hmac=8f8a706394a7d7574ffb15419c9077bda49bc6c400dd36b805c90af7cb5e7b2d"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759954812~acl=/*~id=95633942781760789416996454588375~hmac=0933c60ad160f147233720979e4a83ae9f44e7abbb9b8af9e466056d4de25fd2",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759954812~acl=/*~id=95633942781760789416996454588375~hmac=0933c60ad160f147233720979e4a83ae9f44e7abbb9b8af9e466056d4de25fd2",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759954812~acl=/*~id=95633942781760789416996454588375~hmac=0933c60ad160f147233720979e4a83ae9f44e7abbb9b8af9e466056d4de25fd2"
     },
     {
       "event_category": "Football",
@@ -36,11 +36,11 @@
     {
       "event_category": "Football",
       "isLive": false,
-      "contentId": 1090491896,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009968/1759845069408971_Germany_vs_Luxembourg_landscape.jpg",
+      "contentId": 1090491894,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825550656296_EQ_Promo_France_vs_Azerbaijan_landscape.jpg",
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Germany vs Luxembourg - European Qualifiers for 2026 FIFA World Cup"
+      "event_name": "Upcoming - France vs Azerbaijan - European Qualifiers for 2026 FIFA World Cup"
     },
     {
       "event_category": "Football",
@@ -50,6 +50,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Spain vs Georgia - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090491896,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009968/1759845069408971_Germany_vs_Luxembourg_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Germany vs Luxembourg - European Qualifiers for 2026 FIFA World Cup"
     },
     {
       "event_category": "Football",
@@ -95,15 +104,6 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Czechia vs Croatia - European Qualifiers for 2026 FIFA World Cup"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090491894,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825550656296_EQ_Promo_France_vs_Azerbaijan_landscape.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - France vs Azerbaijan - European Qualifiers for 2026 FIFA World Cup"
     },
     {
       "event_category": "Football",
