@@ -3,19 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Tennis",
-      "isLive": true,
-      "contentId": "1090491865_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010054/1760033142812308_ATP25_9oct_Medvedev_vs_DeMinaur_landscape_thumb_Live.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
-      "match_name": "Daniil Medvedev vs Alex de Minaur - QF - 10 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760142394~acl=/*~id=10195420252550088256315819019890~hmac=c8820489bf2981f397450ee5ea79833ab285e2a1d9b593e6a503488018a7bc36",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760142394~acl=/*~id=10195420252550088256315819019890~hmac=c8820489bf2981f397450ee5ea79833ab285e2a1d9b593e6a503488018a7bc36",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760142394~acl=/*~id=10195420252550088256315819019890~hmac=c8820489bf2981f397450ee5ea79833ab285e2a1d9b593e6a503488018a7bc36"
-    },
-    {
       "event_category": "Cricket",
       "isLive": true,
       "contentId": "1090492070_ENG",
@@ -24,6 +11,19 @@
       "audioLanguageName": "ENG",
       "event_name": "Asia Cup 2025",
       "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+    },
+    {
+      "event_category": "Racing",
+      "isLive": true,
+      "contentId": "1090491972_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010040/1760014215356839_Extreme_E_and_Extreme_H_WC25_day2_9oct_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Extreme E 2025",
+      "match_name": "Day 2 - Extreme H World Cup - 10 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760145437~acl=/*~id=41311192285800896015675809931245~hmac=793b8eaf858abf15058de0fc18357804da301d231dbd0dbbb189a34e9eac84e7",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760145437~acl=/*~id=41311192285800896015675809931245~hmac=793b8eaf858abf15058de0fc18357804da301d231dbd0dbbb189a34e9eac84e7",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760145437~acl=/*~id=41311192285800896015675809931245~hmac=793b8eaf858abf15058de0fc18357804da301d231dbd0dbbb189a34e9eac84e7"
     },
     {
       "event_category": "Football",
