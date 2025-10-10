@@ -12,6 +12,15 @@
       "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
     },
     {
+      "event_category": "Archery",
+      "isLive": false,
+      "contentId": 1090491525,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
+      "broadcast_channel": "LIV",
+      "audioLanguageName": "HIN",
+      "event_name": "Upcoming - Archery Premier League 2025"
+    },
+    {
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090491894,
@@ -55,15 +64,6 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - England Tour of New Zealand 2025"
-    },
-    {
-      "event_category": "Archery",
-      "isLive": false,
-      "contentId": 1090491525,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
-      "broadcast_channel": "LIV",
-      "audioLanguageName": "HIN",
-      "event_name": "Upcoming - Archery Premier League 2025"
     },
     {
       "event_category": "Cricket",
