@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
       "match_name": "Daniil Medvedev vs Alex de Minaur - QF - 10 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760135695~acl=/*~id=71775542346397097401050224560177~hmac=df73cc9870302e089352845cf8601676ab1b06dcd9ca251c222dbf5370b9a6bb",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760135695~acl=/*~id=71775542346397097401050224560177~hmac=df73cc9870302e089352845cf8601676ab1b06dcd9ca251c222dbf5370b9a6bb",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760135695~acl=/*~id=71775542346397097401050224560177~hmac=df73cc9870302e089352845cf8601676ab1b06dcd9ca251c222dbf5370b9a6bb"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760137492~acl=/*~id=46923430138191862400872673756065~hmac=89e10903015426350c97dd36bca873212347c2766e4b5cd1be2872b791765a24",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760137492~acl=/*~id=46923430138191862400872673756065~hmac=89e10903015426350c97dd36bca873212347c2766e4b5cd1be2872b791765a24",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760137492~acl=/*~id=46923430138191862400872673756065~hmac=89e10903015426350c97dd36bca873212347c2766e4b5cd1be2872b791765a24"
     },
     {
       "event_category": "Football",
@@ -104,6 +104,33 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Norway vs Israel - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090492087,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009120330198_EQ_promo_iceland_vs_france_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Iceland vs France - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090492091,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009112593998_EQ_promo_netherlands_vs_finland_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Netherlands vs Finland - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090492090,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009128512198_EQ_promo_n_ireland_vs_germany_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Northern Ireland vs Germany - European Qualifiers for 2026 FIFA World Cup"
     }
   ]
 }
