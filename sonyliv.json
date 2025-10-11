@@ -3,6 +3,19 @@
   "last update time": null,
   "matches": [
     {
+      "event_category": "Archery",
+      "isLive": true,
+      "contentId": "1090492069_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009845/1759543088821452_APL25_Day10_3oct_Landscape_thumb.jpg",
+      "broadcast_channel": "LIV",
+      "audioLanguageName": "ENG",
+      "event_name": "Archery Premier League 2025",
+      "match_name": "Day 10 - 11 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692"
+    },
+    {
       "event_category": "Tennis",
       "isLive": true,
       "contentId": "1090491971_ENG",
@@ -11,9 +24,9 @@
       "audioLanguageName": "ENG",
       "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
       "match_name": " Medvedev vs Rinderknech - Semi-Finals - 11 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760231437~acl=/*~id=12114236214792104574089384376942~hmac=1377301c3220e50c8347b5ff63b500f082d5ee46a06eb7bc390a09475a83ec2c",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760231437~acl=/*~id=12114236214792104574089384376942~hmac=1377301c3220e50c8347b5ff63b500f082d5ee46a06eb7bc390a09475a83ec2c",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760231437~acl=/*~id=12114236214792104574089384376942~hmac=1377301c3220e50c8347b5ff63b500f082d5ee46a06eb7bc390a09475a83ec2c"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692"
     },
     {
       "event_category": "Cricket",
@@ -34,9 +47,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Extreme E 2025",
       "match_name": "Day 3 - Extreme H World Cup - 11 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760231437~acl=/*~id=12114236214792104574089384376942~hmac=1377301c3220e50c8347b5ff63b500f082d5ee46a06eb7bc390a09475a83ec2c",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760231437~acl=/*~id=12114236214792104574089384376942~hmac=1377301c3220e50c8347b5ff63b500f082d5ee46a06eb7bc390a09475a83ec2c",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760231437~acl=/*~id=12114236214792104574089384376942~hmac=1377301c3220e50c8347b5ff63b500f082d5ee46a06eb7bc390a09475a83ec2c"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692"
     },
     {
       "event_category": "Football",
@@ -47,9 +60,9 @@
       "audioLanguageName": "ENG",
       "event_name": "European Qualifiers For 2026 FIFA World Cup",
       "match_name": "Latvia vs Andorra - MD 7 - 11 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760231437~acl=/*~id=12114236214792104574089384376942~hmac=1377301c3220e50c8347b5ff63b500f082d5ee46a06eb7bc390a09475a83ec2c",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760231437~acl=/*~id=12114236214792104574089384376942~hmac=1377301c3220e50c8347b5ff63b500f082d5ee46a06eb7bc390a09475a83ec2c",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760231437~acl=/*~id=12114236214792104574089384376942~hmac=1377301c3220e50c8347b5ff63b500f082d5ee46a06eb7bc390a09475a83ec2c"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760232658~acl=/*~id=68516079759922403102314649554406~hmac=5cc1aa2b0aa958f853ea142c42cb2a19a3f5bccb8ebde30d1cb8b0f058c8b692"
     },
     {
       "event_category": "Football",
