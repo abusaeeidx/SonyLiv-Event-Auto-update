@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
       "match_name": " Medvedev vs Rinderknech - Semi-Finals - 11 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760224125~acl=/*~id=05962610720691510548452409822418~hmac=6b07f76e52cd24b4460530d99835e882b8f7d18f0285566a1c366cc2658f9f4c",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760224125~acl=/*~id=05962610720691510548452409822418~hmac=6b07f76e52cd24b4460530d99835e882b8f7d18f0285566a1c366cc2658f9f4c",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760224125~acl=/*~id=05962610720691510548452409822418~hmac=6b07f76e52cd24b4460530d99835e882b8f7d18f0285566a1c366cc2658f9f4c"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760228990~acl=/*~id=90584571818838563310260543143130~hmac=55e5f54043beccd6cb45b1f387df9fbada8475a7967d9f14cc49694753466a32",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760228990~acl=/*~id=90584571818838563310260543143130~hmac=55e5f54043beccd6cb45b1f387df9fbada8475a7967d9f14cc49694753466a32",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760228990~acl=/*~id=90584571818838563310260543143130~hmac=55e5f54043beccd6cb45b1f387df9fbada8475a7967d9f14cc49694753466a32"
     },
     {
       "event_category": "Cricket",
@@ -26,6 +26,32 @@
       "match_name": "India's Asia Cup Glory 24x7 [ENG]"
     },
     {
+      "event_category": "Racing",
+      "isLive": true,
+      "contentId": "1090492068_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010040/1760014223501839_Extreme_E_and_Extreme_H_WC25_day3_9oct_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Extreme E 2025",
+      "match_name": "Day 3 - Extreme H World Cup - 11 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760228990~acl=/*~id=90584571818838563310260543143130~hmac=55e5f54043beccd6cb45b1f387df9fbada8475a7967d9f14cc49694753466a32",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760228990~acl=/*~id=90584571818838563310260543143130~hmac=55e5f54043beccd6cb45b1f387df9fbada8475a7967d9f14cc49694753466a32",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760228990~acl=/*~id=90584571818838563310260543143130~hmac=55e5f54043beccd6cb45b1f387df9fbada8475a7967d9f14cc49694753466a32"
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090492075_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541222127830_EQ2526_Latvia_vs_Andorra_3oct_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "European Qualifiers For 2026 FIFA World Cup",
+      "match_name": "Latvia vs Andorra - MD 7 - 11 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760228990~acl=/*~id=90584571818838563310260543143130~hmac=55e5f54043beccd6cb45b1f387df9fbada8475a7967d9f14cc49694753466a32",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760228990~acl=/*~id=90584571818838563310260543143130~hmac=55e5f54043beccd6cb45b1f387df9fbada8475a7967d9f14cc49694753466a32",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760228990~acl=/*~id=90584571818838563310260543143130~hmac=55e5f54043beccd6cb45b1f387df9fbada8475a7967d9f14cc49694753466a32"
+    },
+    {
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090491892,
@@ -33,15 +59,6 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Portugal vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
-    },
-    {
-      "event_category": "Archery",
-      "isLive": false,
-      "contentId": 1090491525,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
-      "broadcast_channel": "LIV",
-      "audioLanguageName": "HIN",
-      "event_name": "Upcoming - Archery Premier League 2025"
     },
     {
       "event_category": "Football",
@@ -53,6 +70,15 @@
       "event_name": "Upcoming - Spain vs Georgia - European Qualifiers for 2026 FIFA World Cup"
     },
     {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090491833,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009909/1759686740092596_EWC_oct_promo_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090491779,
@@ -62,13 +88,13 @@
       "event_name": "Upcoming - England Tour of New Zealand 2025"
     },
     {
-      "event_category": "Football",
+      "event_category": "Archery",
       "isLive": false,
-      "contentId": 1090491833,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009909/1759686740092596_EWC_oct_promo_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
+      "contentId": 1090491525,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
+      "broadcast_channel": "LIV",
+      "audioLanguageName": "HIN",
+      "event_name": "Upcoming - Archery Premier League 2025"
     },
     {
       "event_category": "Cricket",
