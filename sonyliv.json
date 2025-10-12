@@ -21,9 +21,9 @@
       "audioLanguageName": "ENG",
       "event_name": "European Qualifiers For 2026 FIFA World Cup",
       "match_name": "San Marino vs Cyprus - MD 8 - 12 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760314975~acl=/*~id=60730029140685592108032326685028~hmac=59c9dbde2d9016d2d73b466d9622e9f76006933a110fe5b59cd4163e738204e1",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760314975~acl=/*~id=60730029140685592108032326685028~hmac=59c9dbde2d9016d2d73b466d9622e9f76006933a110fe5b59cd4163e738204e1",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760314975~acl=/*~id=60730029140685592108032326685028~hmac=59c9dbde2d9016d2d73b466d9622e9f76006933a110fe5b59cd4163e738204e1"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760318019~acl=/*~id=71997005289103456164458853906321~hmac=1672b0aed71638571eee68728ab2129da2880600e59979056e67adc1f9dd12da",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760318019~acl=/*~id=71997005289103456164458853906321~hmac=1672b0aed71638571eee68728ab2129da2880600e59979056e67adc1f9dd12da",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760318019~acl=/*~id=71997005289103456164458853906321~hmac=1672b0aed71638571eee68728ab2129da2880600e59979056e67adc1f9dd12da"
     },
     {
       "event_category": "Football",
@@ -51,15 +51,6 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Northern Ireland vs Germany - European Qualifiers for 2026 FIFA World Cup"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090492100,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760111961547245_UEL_MD8_Latvia_vs_Engaland_DDT_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Latvia vs England - European Qualifiers for 2026 FIFA World Cup"
     },
     {
       "event_category": "Football",
@@ -96,6 +87,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Iceland vs France - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090492100,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760111961547245_UEL_MD8_Latvia_vs_Engaland_DDT_Landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Latvia vs England - European Qualifiers for 2026 FIFA World Cup"
     },
     {
       "event_category": "Football",
