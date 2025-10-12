@@ -3,19 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Tennis",
-      "isLive": true,
-      "contentId": "1090492134_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010142/1760197212593374_ATP25_9oct_Rinderknech_vs_Vacherot_Landscape_thumb_Live.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
-      "match_name": "A. Rinderknech vs V. Vacherot - Final - 12 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760311930~acl=/*~id=86474108066101545027893510958027~hmac=173f35f6988e80a0146d96889105fa0bb7a884636d74f25ce3f4405916eb44f7",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760311930~acl=/*~id=86474108066101545027893510958027~hmac=173f35f6988e80a0146d96889105fa0bb7a884636d74f25ce3f4405916eb44f7",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760311930~acl=/*~id=86474108066101545027893510958027~hmac=173f35f6988e80a0146d96889105fa0bb7a884636d74f25ce3f4405916eb44f7"
-    },
-    {
       "event_category": "Cricket",
       "isLive": true,
       "contentId": "1090492070_ENG",
@@ -24,6 +11,19 @@
       "audioLanguageName": "ENG",
       "event_name": "Asia Cup 2025",
       "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090492123_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759543694637839_EQ2526_MD8_San_Marino_vs_Cyprus_3oct_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "European Qualifiers For 2026 FIFA World Cup",
+      "match_name": "San Marino vs Cyprus - MD 8 - 12 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760314975~acl=/*~id=60730029140685592108032326685028~hmac=59c9dbde2d9016d2d73b466d9622e9f76006933a110fe5b59cd4163e738204e1",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760314975~acl=/*~id=60730029140685592108032326685028~hmac=59c9dbde2d9016d2d73b466d9622e9f76006933a110fe5b59cd4163e738204e1",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760314975~acl=/*~id=60730029140685592108032326685028~hmac=59c9dbde2d9016d2d73b466d9622e9f76006933a110fe5b59cd4163e738204e1"
     },
     {
       "event_category": "Football",
