@@ -21,9 +21,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Asian Tour 2025",
       "match_name": "SJM Macao Open - Day 1 - 16 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760639032~acl=/*~id=46330777638478753376686604951249~hmac=bc29be93cce85100ddf866bce00e72d640205c81b985177b98bf49ce1adb9df1",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760639032~acl=/*~id=46330777638478753376686604951249~hmac=bc29be93cce85100ddf866bce00e72d640205c81b985177b98bf49ce1adb9df1",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760639032~acl=/*~id=46330777638478753376686604951249~hmac=bc29be93cce85100ddf866bce00e72d640205c81b985177b98bf49ce1adb9df1"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760640252~acl=/*~id=59964162314707159261785170376821~hmac=64f6c78c67090ab0d3785e1f655b7cb1ac2b67e8abb2a9b85d0ba2d4ea3b33a4",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760640252~acl=/*~id=59964162314707159261785170376821~hmac=64f6c78c67090ab0d3785e1f655b7cb1ac2b67e8abb2a9b85d0ba2d4ea3b33a4",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760640252~acl=/*~id=59964162314707159261785170376821~hmac=64f6c78c67090ab0d3785e1f655b7cb1ac2b67e8abb2a9b85d0ba2d4ea3b33a4"
     },
     {
       "event_category": "Cricket",
@@ -42,6 +42,15 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Bayern Munich vs Borussia Dortmund"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090492385,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760503229529351_UCL2526_Barcelona_vs_Olympiacos_15oct_dated_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2025-26"
     },
     {
       "event_category": "Football",
