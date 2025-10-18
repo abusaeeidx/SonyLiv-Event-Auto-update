@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Bundesliga 2025-26",
       "match_name": "Bayern Munich vs Borussia Dortmund - MD 7 - 18 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760851640~acl=/*~id=72017466331183083678174710567022~hmac=d1ce477e28cc9bc60be7ef52dc5935286e4708a2cf5a5e11634d48f50fab803e",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760851640~acl=/*~id=72017466331183083678174710567022~hmac=d1ce477e28cc9bc60be7ef52dc5935286e4708a2cf5a5e11634d48f50fab803e",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760851640~acl=/*~id=72017466331183083678174710567022~hmac=d1ce477e28cc9bc60be7ef52dc5935286e4708a2cf5a5e11634d48f50fab803e"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760854656~acl=/*~id=11516763187402790157826968852899~hmac=ec1d44660b95e9bded91e23440d6d9caf7f075a5102a4139a9b8095d8e4342d5",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760854656~acl=/*~id=11516763187402790157826968852899~hmac=ec1d44660b95e9bded91e23440d6d9caf7f075a5102a4139a9b8095d8e4342d5",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760854656~acl=/*~id=11516763187402790157826968852899~hmac=ec1d44660b95e9bded91e23440d6d9caf7f075a5102a4139a9b8095d8e4342d5"
     },
     {
       "event_category": "Cricket",
@@ -34,9 +34,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Bundesliga 2025-26",
       "match_name": "Bayern Munich vs Borussia Dortmund - Tactical Feed - 18 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760851640~acl=/*~id=72017466331183083678174710567022~hmac=d1ce477e28cc9bc60be7ef52dc5935286e4708a2cf5a5e11634d48f50fab803e",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760851640~acl=/*~id=72017466331183083678174710567022~hmac=d1ce477e28cc9bc60be7ef52dc5935286e4708a2cf5a5e11634d48f50fab803e",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760851640~acl=/*~id=72017466331183083678174710567022~hmac=d1ce477e28cc9bc60be7ef52dc5935286e4708a2cf5a5e11634d48f50fab803e"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760854656~acl=/*~id=11516763187402790157826968852899~hmac=ec1d44660b95e9bded91e23440d6d9caf7f075a5102a4139a9b8095d8e4342d5",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760854656~acl=/*~id=11516763187402790157826968852899~hmac=ec1d44660b95e9bded91e23440d6d9caf7f075a5102a4139a9b8095d8e4342d5",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760854656~acl=/*~id=11516763187402790157826968852899~hmac=ec1d44660b95e9bded91e23440d6d9caf7f075a5102a4139a9b8095d8e4342d5"
     },
     {
       "event_category": "Football",
@@ -84,15 +84,6 @@
       "event_name": "Upcoming - Villarreal vs Man City - UEFA Champions League 2025-26"
     },
     {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090492561,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760509150400351_UCL2526_Frankfurt_vs_Liverpool_15oct_dated_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Frankfurt vs Liverpool - UEFA Champions League 2025-26"
-    },
-    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090492554,
@@ -127,6 +118,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2025-26"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090492561,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760509150400351_UCL2526_Frankfurt_vs_Liverpool_15oct_dated_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Frankfurt vs Liverpool - UEFA Champions League 2025-26"
     },
     {
       "event_category": "Football",
