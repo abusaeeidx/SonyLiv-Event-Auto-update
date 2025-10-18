@@ -5,19 +5,6 @@
     {
       "event_category": "Cricket",
       "isLive": true,
-      "contentId": "1090492435_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010322/1760663402320282_NZvsENG25_1t20i_14oct_live_landscape_thumb_re1.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "England Tour of New Zealand 2025",
-      "match_name": "1st T20I - 18 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760822938~acl=/*~id=58846538780261959988818506363326~hmac=5a2d07eb0384435346584b62edbad133fcdbe0ce33eb9f6cfbdb3aa33c7ecde2",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760822938~acl=/*~id=58846538780261959988818506363326~hmac=5a2d07eb0384435346584b62edbad133fcdbe0ce33eb9f6cfbdb3aa33c7ecde2",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760822938~acl=/*~id=58846538780261959988818506363326~hmac=5a2d07eb0384435346584b62edbad133fcdbe0ce33eb9f6cfbdb3aa33c7ecde2"
-    },
-    {
-      "event_category": "Cricket",
-      "isLive": true,
       "contentId": "1090492070_ENG",
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
