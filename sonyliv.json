@@ -3,6 +3,19 @@
   "last update time": null,
   "matches": [
     {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090492483_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550228529913_bliga2526_MD7_Mainz_vs_Leverkusen_3oct_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Bundesliga 2025-26",
+      "match_name": "Mainz vs Bayer Leverkusen - MD 7 - 18 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251"
+    },
+    {
       "event_category": "Cricket",
       "isLive": true,
       "contentId": "1090492070_ENG",
@@ -11,6 +24,71 @@
       "audioLanguageName": "ENG",
       "event_name": "Asia Cup 2025",
       "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090492484_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550338383913_bliga2526_MD7_RB_Leipzig_vs_Hamburg_SV_3oct_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Bundesliga 2025-26",
+      "match_name": "RB Leipzig vs Hamburg SV - MD 7 - 18 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251"
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090492481_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Bundesliga 2025-26",
+      "match_name": "Goal Arena - MD 7 - 18 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251"
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090492482_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759549507579913_bliga2526_MD7_FC_Koln_vs_FC_Augsburg_3oct_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Bundesliga 2025-26",
+      "match_name": "FC Koln vs FC Augsburg - MD 7 - 18 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251"
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090492436_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759549224710913_bliga2526_MD7_Heidenheim_vs_Werder_Bremen_3oct_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Bundesliga 2025-26",
+      "match_name": "Heidenheim vs Werder Bremen - MD 7 - 18 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251"
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090492485_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550486028913_bliga2526_MD7_VfL_Wolfsburg_vs_VfB_Stuttgart_3oct_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Bundesliga 2025-26",
+      "match_name": "VfL Wolfsburg vs VfB Stuttgart - MD 7 - 18 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836336~acl=/*~id=00281349259877580074656568110566~hmac=91e5e5bde90e0bd2854c820b412fb810e1b286e69cebbf27a88962e7d56c2251"
     },
     {
       "event_category": "Football",
@@ -47,6 +125,42 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Real Madrid vs Juventus - UEFA Champions League 2025-26"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": false,
+      "contentId": 1090492554,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010332/1760699868359604_combo_promo_liverpool_vs_real_madrid_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - The Best Sporting Action"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": false,
+      "contentId": 1090491779,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010304/1760609444288814_NZvsENG25_2t20i_dated_16oct_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - England Tour of New Zealand 2025"
+    },
+    {
+      "event_category": "Fight Sports",
+      "isLive": false,
+      "contentId": 1090492593,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729546722300_UFC321_Landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - UFC 321 - Aspinall vs Gane"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090492556,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010335/176070118545415_UCL_promo_MD3_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2025-26"
     },
     {
       "event_category": "Football",
@@ -87,51 +201,6 @@
     {
       "event_category": "Cricket",
       "isLive": false,
-      "contentId": 1090492554,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010332/1760699868359604_combo_promo_liverpool_vs_real_madrid_landscape.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - The Best Sporting Action"
-    },
-    {
-      "event_category": "Cricket",
-      "isLive": false,
-      "contentId": 1090491779,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010304/1760609444288814_NZvsENG25_2t20i_dated_16oct_landscape.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - England Tour of New Zealand 2025"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090492384,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010255/1760465067728328_Bundesliga_MD7_Mainz_vs_Leverkusen_Promo_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Mainz vs Bayer Leverkusen"
-    },
-    {
-      "event_category": "Fight Sports",
-      "isLive": false,
-      "contentId": 1090492593,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729546722300_UFC321_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - UFC 321 - Aspinall vs Gane"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090492556,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010335/176070118545415_UCL_promo_MD3_landscape.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2025-26"
-    },
-    {
-      "event_category": "Cricket",
-      "isLive": false,
       "contentId": 1090489002,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
@@ -146,6 +215,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - UEFA Champions League 2025-26"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090492588,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729500812300_UEL_MD3_GEN_LANDSCAPE_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - UEFA Europa League - MD 3"
     }
   ]
 }
