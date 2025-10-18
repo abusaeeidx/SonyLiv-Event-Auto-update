@@ -5,12 +5,38 @@
     {
       "event_category": "Cricket",
       "isLive": true,
+      "contentId": "1090492435_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010322/1760663402320282_NZvsENG25_1t20i_14oct_live_landscape_thumb_re1.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "England Tour of New Zealand 2025",
+      "match_name": "1st T20I - 18 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760811333~acl=/*~id=51186114385958334380498214457117~hmac=2915d5995f5a9f9ee11488a1556854927b1f579cfba9be5b3424102fefa5bc3b",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760811333~acl=/*~id=51186114385958334380498214457117~hmac=2915d5995f5a9f9ee11488a1556854927b1f579cfba9be5b3424102fefa5bc3b",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760811333~acl=/*~id=51186114385958334380498214457117~hmac=2915d5995f5a9f9ee11488a1556854927b1f579cfba9be5b3424102fefa5bc3b"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": true,
       "contentId": "1090492070_ENG",
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Asia Cup 2025",
       "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+    },
+    {
+      "event_category": "Archery",
+      "isLive": true,
+      "contentId": "1090492506_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010223/1760397791786309_HAWC_NanjingChina2025_Compound_women_Elite_Eight_Quarterfinals_To_Finals_14oct_landscape_thumb.jpg",
+      "broadcast_channel": "LIV",
+      "audioLanguageName": "ENG",
+      "event_name": "Hyundai Archery World Cup Final 2025",
+      "match_name": "Compound Women Elite Eight - 18 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760811333~acl=/*~id=51186114385958334380498214457117~hmac=2915d5995f5a9f9ee11488a1556854927b1f579cfba9be5b3424102fefa5bc3b",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760811333~acl=/*~id=51186114385958334380498214457117~hmac=2915d5995f5a9f9ee11488a1556854927b1f579cfba9be5b3424102fefa5bc3b",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760811333~acl=/*~id=51186114385958334380498214457117~hmac=2915d5995f5a9f9ee11488a1556854927b1f579cfba9be5b3424102fefa5bc3b"
     },
     {
       "event_category": "Golf",
@@ -21,9 +47,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Asian Tour 2025",
       "match_name": "SJM Macao Open - Day 3 - 18 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760808294~acl=/*~id=12652929893940049941059072081331~hmac=701a3711ffb30bb427a4de921a198ea1e545b60065f96634586ec71261aa207f",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760808294~acl=/*~id=12652929893940049941059072081331~hmac=701a3711ffb30bb427a4de921a198ea1e545b60065f96634586ec71261aa207f",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760808294~acl=/*~id=12652929893940049941059072081331~hmac=701a3711ffb30bb427a4de921a198ea1e545b60065f96634586ec71261aa207f"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760811333~acl=/*~id=51186114385958334380498214457117~hmac=2915d5995f5a9f9ee11488a1556854927b1f579cfba9be5b3424102fefa5bc3b",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760811333~acl=/*~id=51186114385958334380498214457117~hmac=2915d5995f5a9f9ee11488a1556854927b1f579cfba9be5b3424102fefa5bc3b",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760811333~acl=/*~id=51186114385958334380498214457117~hmac=2915d5995f5a9f9ee11488a1556854927b1f579cfba9be5b3424102fefa5bc3b"
     },
     {
       "event_category": "Football",
