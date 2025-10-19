@@ -13,32 +13,6 @@
       "match_name": "India's Asia Cup Glory 24x7 [ENG]"
     },
     {
-      "event_category": "Archery",
-      "isLive": true,
-      "contentId": "1090492626_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010223/1760397868502309_HAWC_NanjingChina2025_Recurve_men_Elite_Eight_Quarterfinals_To_Finals_14oct_landscape_thumb.jpg",
-      "broadcast_channel": "LIV",
-      "audioLanguageName": "ENG",
-      "event_name": "Hyundai Archery World Cup Final 2025",
-      "match_name": "Recurve Men Elite Eight - 19 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760905848~acl=/*~id=11368196840454165416711776613071~hmac=3dca1993760f9608b06dc8dbe0034bccff9795be08a258d9f075efbfceba0a0b",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760905848~acl=/*~id=11368196840454165416711776613071~hmac=3dca1993760f9608b06dc8dbe0034bccff9795be08a258d9f075efbfceba0a0b",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760905848~acl=/*~id=11368196840454165416711776613071~hmac=3dca1993760f9608b06dc8dbe0034bccff9795be08a258d9f075efbfceba0a0b"
-    },
-    {
-      "event_category": "Golf",
-      "isLive": true,
-      "contentId": "1090492628_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009911/175972043531633_AsianTour25_SJM_Macao_Open_Day4_5oct_landscape_thumb.jpg",
-      "broadcast_channel": "LIV",
-      "audioLanguageName": "ENG",
-      "event_name": "Asian Tour 2025",
-      "match_name": "SJM Macao Open - Day 4 - 19 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760905848~acl=/*~id=11368196840454165416711776613071~hmac=3dca1993760f9608b06dc8dbe0034bccff9795be08a258d9f075efbfceba0a0b",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760905848~acl=/*~id=11368196840454165416711776613071~hmac=3dca1993760f9608b06dc8dbe0034bccff9795be08a258d9f075efbfceba0a0b",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760905848~acl=/*~id=11368196840454165416711776613071~hmac=3dca1993760f9608b06dc8dbe0034bccff9795be08a258d9f075efbfceba0a0b"
-    },
-    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090491779,
@@ -75,6 +49,24 @@
       "event_name": "Upcoming - Real Madrid vs Juventus - UEFA Champions League 2025-26"
     },
     {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090492560,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505061578351_UCL2526_Leverkusen_vs_PSG_15oct_dated_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Leverkusen vs PSG - UEFA Champions League 2025-26"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090492558,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505761048351_UCL2526_Villarreal_vs_Man_City_15oct_dated_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Villarreal vs Man City - UEFA Champions League 2025-26"
+    },
+    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090492554,
@@ -100,24 +92,6 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2025-26"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090492560,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505061578351_UCL2526_Leverkusen_vs_PSG_15oct_dated_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Leverkusen vs PSG - UEFA Champions League 2025-26"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090492558,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505761048351_UCL2526_Villarreal_vs_Man_City_15oct_dated_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Villarreal vs Man City - UEFA Champions League 2025-26"
     },
     {
       "event_category": "Football",
