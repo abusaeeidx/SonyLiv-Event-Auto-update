@@ -21,9 +21,22 @@
       "audioLanguageName": "ENG",
       "event_name": "Hyundai Archery World Cup Final 2025",
       "match_name": "Recurve Women Elite Eight - 19 Oct 2025 [ENG]",
-      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760888760~acl=/*~id=52317308578326100917123277756963~hmac=0f583b37a39ebc505be54ffaf617990d524ce0378d05f91492795c0e30f7eebe",
-      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760888760~acl=/*~id=52317308578326100917123277756963~hmac=0f583b37a39ebc505be54ffaf617990d524ce0378d05f91492795c0e30f7eebe",
-      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760888760~acl=/*~id=52317308578326100917123277756963~hmac=0f583b37a39ebc505be54ffaf617990d524ce0378d05f91492795c0e30f7eebe"
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760890607~acl=/*~id=23879801203522089282211774989945~hmac=a99d7102e973e71b2b4af7199efc45836b892b9df34c5df48dd1aa3312961549",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760890607~acl=/*~id=23879801203522089282211774989945~hmac=a99d7102e973e71b2b4af7199efc45836b892b9df34c5df48dd1aa3312961549",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760890607~acl=/*~id=23879801203522089282211774989945~hmac=a99d7102e973e71b2b4af7199efc45836b892b9df34c5df48dd1aa3312961549"
+    },
+    {
+      "event_category": "Golf",
+      "isLive": true,
+      "contentId": "1090492628_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009911/175972043531633_AsianTour25_SJM_Macao_Open_Day4_5oct_landscape_thumb.jpg",
+      "broadcast_channel": "LIV",
+      "audioLanguageName": "ENG",
+      "event_name": "Asian Tour 2025",
+      "match_name": "SJM Macao Open - Day 4 - 19 Oct 2025 [ENG]",
+      "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760890607~acl=/*~id=23879801203522089282211774989945~hmac=a99d7102e973e71b2b4af7199efc45836b892b9df34c5df48dd1aa3312961549",
+      "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760890607~acl=/*~id=23879801203522089282211774989945~hmac=a99d7102e973e71b2b4af7199efc45836b892b9df34c5df48dd1aa3312961549",
+      "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760890607~acl=/*~id=23879801203522089282211774989945~hmac=a99d7102e973e71b2b4af7199efc45836b892b9df34c5df48dd1aa3312961549"
     },
     {
       "event_category": "Football",
@@ -62,15 +75,6 @@
       "event_name": "Upcoming - Leverkusen vs PSG - UEFA Champions League 2025-26"
     },
     {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090492558,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505761048351_UCL2526_Villarreal_vs_Man_City_15oct_dated_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Villarreal vs Man City - UEFA Champions League 2025-26"
-    },
-    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090492554,
@@ -105,6 +109,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2025-26"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090492558,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505761048351_UCL2526_Villarreal_vs_Man_City_15oct_dated_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Villarreal vs Man City - UEFA Champions League 2025-26"
     },
     {
       "event_category": "Football",
