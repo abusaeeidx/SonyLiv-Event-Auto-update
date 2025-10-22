@@ -21,9 +21,22 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Youth League 2025-26",
       "match_name": "Monaco vs Tottenham - MD 3 - 22 Oct 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179800~acl=/*~id=01358938369303848262826678189137~hmac=3073047a27b221b72bd611442c42e85c093f48766318e7ee99cf4ad6bc15efeb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179800~acl=/*~id=01358938369303848262826678189137~hmac=3073047a27b221b72bd611442c42e85c093f48766318e7ee99cf4ad6bc15efeb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179800~acl=/*~id=01358938369303848262826678189137~hmac=3073047a27b221b72bd611442c42e85c093f48766318e7ee99cf4ad6bc15efeb"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761182857~acl=/*~id=84841313237045819435800147905719~hmac=327e9ee6595ac8b66d56923f3178996463dda5a1a39a0087d53ec6a67c28d4a1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761182857~acl=/*~id=84841313237045819435800147905719~hmac=327e9ee6595ac8b66d56923f3178996463dda5a1a39a0087d53ec6a67c28d4a1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761182857~acl=/*~id=84841313237045819435800147905719~hmac=327e9ee6595ac8b66d56923f3178996463dda5a1a39a0087d53ec6a67c28d4a1"
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090492523_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010310/1760615011524110_UYL25_MD3_Bayern_vs_Club_Brugge_16oct_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "UEFA Youth League 2025-26",
+      "match_name": "Bayern vs Club Brugge - MD 3 - 22 Oct 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761182857~acl=/*~id=84841313237045819435800147905719~hmac=327e9ee6595ac8b66d56923f3178996463dda5a1a39a0087d53ec6a67c28d4a1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761182857~acl=/*~id=84841313237045819435800147905719~hmac=327e9ee6595ac8b66d56923f3178996463dda5a1a39a0087d53ec6a67c28d4a1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761182857~acl=/*~id=84841313237045819435800147905719~hmac=327e9ee6595ac8b66d56923f3178996463dda5a1a39a0087d53ec6a67c28d4a1"
     },
     {
       "event_category": "Football",
