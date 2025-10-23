@@ -3,32 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": "1090492827_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010037/1760008046385836_UEL2526_MD3_Nottm_Forest_vs_Porto_9oct_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "UEFA Europa League 2025-26",
-      "match_name": "Nott'm Forest vs Porto - MD 3 - 24 Oct 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761294584~acl=/*~id=16953433758677415661851531945717~hmac=c04074927706d62089a5d962f0c2cdf3893ebea012aa01f014eab5bce9bda8c5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761294584~acl=/*~id=16953433758677415661851531945717~hmac=c04074927706d62089a5d962f0c2cdf3893ebea012aa01f014eab5bce9bda8c5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761294584~acl=/*~id=16953433758677415661851531945717~hmac=c04074927706d62089a5d962f0c2cdf3893ebea012aa01f014eab5bce9bda8c5"
-    },
-    {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": "1090492821_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010022/1759992598173918_UEL2526_MD3_Roma_vs_viktoria_Plzen_9oct_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "UEFA Europa League 2025-26",
-      "match_name": "Roma vs Viktoria Plzen - MD 3 - 24 Oct 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761294584~acl=/*~id=16953433758677415661851531945717~hmac=c04074927706d62089a5d962f0c2cdf3893ebea012aa01f014eab5bce9bda8c5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761294584~acl=/*~id=16953433758677415661851531945717~hmac=c04074927706d62089a5d962f0c2cdf3893ebea012aa01f014eab5bce9bda8c5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761294584~acl=/*~id=16953433758677415661851531945717~hmac=c04074927706d62089a5d962f0c2cdf3893ebea012aa01f014eab5bce9bda8c5"
-    },
-    {
       "event_category": "Cricket",
       "isLive": true,
       "contentId": "1090492070_ENG",
