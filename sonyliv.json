@@ -13,15 +13,6 @@
       "match_name": "India's Asia Cup Glory 24x7 [ENG]"
     },
     {
-      "event_category": "KHO KHO",
-      "isLive": false,
-      "contentId": 1090493208,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010539/1761399253798542_Ultimate_Kho-Kho_Promo_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Ultimate Kho Kho 2025"
-    },
-    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090491779,
@@ -29,6 +20,15 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - England Tour of New Zealand 2025"
+    },
+    {
+      "event_category": "KHO KHO",
+      "isLive": false,
+      "contentId": 1090493208,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010539/1761399253798542_Ultimate_Kho-Kho_Promo_Landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Ultimate Kho Kho 2025"
     },
     {
       "event_category": "Tennis",
