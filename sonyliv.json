@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "ATP Masters 1000 - 2025 Rolex Paris Open",
       "match_name": "Round 2 - 29 Oct 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761779305~acl=/*~id=10764866774106078540055837853177~hmac=a33a411a2435592cd917f23a769b21e18fb88835041658b132181ebaf731ac05",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761779305~acl=/*~id=10764866774106078540055837853177~hmac=a33a411a2435592cd917f23a769b21e18fb88835041658b132181ebaf731ac05",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761779305~acl=/*~id=10764866774106078540055837853177~hmac=a33a411a2435592cd917f23a769b21e18fb88835041658b132181ebaf731ac05"
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761780529~acl=/*~id=85749351674266653946597545149142~hmac=bfb7601574584be21cb6f8a8256f77b7bee1bcd3e0686277702e8de8de68ee9d",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761780529~acl=/*~id=85749351674266653946597545149142~hmac=bfb7601574584be21cb6f8a8256f77b7bee1bcd3e0686277702e8de8de68ee9d",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761780529~acl=/*~id=85749351674266653946597545149142~hmac=bfb7601574584be21cb6f8a8256f77b7bee1bcd3e0686277702e8de8de68ee9d"
     },
     {
       "event_category": "Cricket",
