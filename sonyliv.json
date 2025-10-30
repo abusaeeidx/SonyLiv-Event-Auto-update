@@ -9,11 +9,11 @@
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551544225169_ATP_Rolex_Paris25_round3_27oct_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
-      "event_name": "ATP Masters 1000 - 2025 Rolex Paris Open",
+      "event_name": "ATP Rolex Paris Masters 2025",
       "match_name": "Round 3 - 30 Oct 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761867348~acl=/*~id=64567790601153387051691446496069~hmac=2908995291c0d551af7ec6dd57c019f89b471220e0fe2770a9f2feeff60a2253",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761867348~acl=/*~id=64567790601153387051691446496069~hmac=2908995291c0d551af7ec6dd57c019f89b471220e0fe2770a9f2feeff60a2253",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761867348~acl=/*~id=64567790601153387051691446496069~hmac=2908995291c0d551af7ec6dd57c019f89b471220e0fe2770a9f2feeff60a2253"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761870399~acl=/*~id=17109836691482974240231144187177~hmac=5246b0f34e7ac2db4a13e719b0adb76f12a7545902e345d1662964225e8af2cd",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761870399~acl=/*~id=17109836691482974240231144187177~hmac=5246b0f34e7ac2db4a13e719b0adb76f12a7545902e345d1662964225e8af2cd",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761870399~acl=/*~id=17109836691482974240231144187177~hmac=5246b0f34e7ac2db4a13e719b0adb76f12a7545902e345d1662964225e8af2cd"
     },
     {
       "event_category": "Cricket",
@@ -78,15 +78,6 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Ultimate Kho Kho 2025"
-    },
-    {
-      "event_category": "Tennis",
-      "isLive": false,
-      "contentId": 1090493170,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010522/1761327268268955_ATP-Paris-Open_24OCT_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - ATP Masters 1000 - 2025 Rolex Paris Open"
     },
     {
       "event_category": "Cricket",
