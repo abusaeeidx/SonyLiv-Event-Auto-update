@@ -11,9 +11,22 @@
       "audioLanguageName": "ENG",
       "event_name": "England Tour of New Zealand 2025",
       "match_name": "3rd ODI - 1 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762011142~acl=/*~id=25500015931057287820647482109852~hmac=4c235061e7e0a612ec14bbb2c29724f6eac2713de514f9d5d6eca274842c2c67",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762011142~acl=/*~id=25500015931057287820647482109852~hmac=4c235061e7e0a612ec14bbb2c29724f6eac2713de514f9d5d6eca274842c2c67",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762011142~acl=/*~id=25500015931057287820647482109852~hmac=4c235061e7e0a612ec14bbb2c29724f6eac2713de514f9d5d6eca274842c2c67"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762013579~acl=/*~id=28190648683566626467671358988874~hmac=2da069a7f58cf686f5d03c1e8c65bfd61cdc71f95638aa45ff95ca5e921532f7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762013579~acl=/*~id=28190648683566626467671358988874~hmac=2da069a7f58cf686f5d03c1e8c65bfd61cdc71f95638aa45ff95ca5e921532f7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762013579~acl=/*~id=28190648683566626467671358988874~hmac=2da069a7f58cf686f5d03c1e8c65bfd61cdc71f95638aa45ff95ca5e921532f7"
+    },
+    {
+      "event_category": "Golf",
+      "isLive": true,
+      "contentId": "1090493581_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824466986210_Asian_tour_LINK_Hong_Kong_Open_day3_30oct_landscape_thumb.jpg",
+      "broadcast_channel": "LIV",
+      "audioLanguageName": "ENG",
+      "event_name": "Asian Tour 2025",
+      "match_name": "LINK Hong Kong Open - Day 3 - 1 Nov 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762013579~acl=/*~id=28190648683566626467671358988874~hmac=2da069a7f58cf686f5d03c1e8c65bfd61cdc71f95638aa45ff95ca5e921532f7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762013579~acl=/*~id=28190648683566626467671358988874~hmac=2da069a7f58cf686f5d03c1e8c65bfd61cdc71f95638aa45ff95ca5e921532f7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762013579~acl=/*~id=28190648683566626467671358988874~hmac=2da069a7f58cf686f5d03c1e8c65bfd61cdc71f95638aa45ff95ca5e921532f7"
     },
     {
       "event_category": "Sport",
