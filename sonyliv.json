@@ -3,6 +3,19 @@
   "last update time": null,
   "matches": [
     {
+      "event_category": "Cricket",
+      "isLive": true,
+      "contentId": "1090492564_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362695364543_NZvsENG25_3ODI_24oct_Landscape_thumb_Live.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "England Tour of New Zealand 2025",
+      "match_name": "3rd ODI - 1 Nov 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762003230~acl=/*~id=50551511716204237220763462831105~hmac=07d1985bfdcfb5e5647fa4bd35e0ba5449dd1ec1069ede431a0eb02f39dcaf22",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762003230~acl=/*~id=50551511716204237220763462831105~hmac=07d1985bfdcfb5e5647fa4bd35e0ba5449dd1ec1069ede431a0eb02f39dcaf22",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762003230~acl=/*~id=50551511716204237220763462831105~hmac=07d1985bfdcfb5e5647fa4bd35e0ba5449dd1ec1069ede431a0eb02f39dcaf22"
+    },
+    {
       "event_category": "Sport",
       "isLive": false,
       "contentId": 1090493490,
@@ -10,15 +23,6 @@
       "broadcast_channel": "Sony Sports Ten 1",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - WWE - Saturday Night's Main Event"
-    },
-    {
-      "event_category": "Cricket",
-      "isLive": false,
-      "contentId": 1090491779,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010531/1761373789900505_NZvsENG25_3ODI_25oct_today_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - England Tour of New Zealand 2025"
     },
     {
       "event_category": "Football",
@@ -127,6 +131,15 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - UEFA Conference League - MD 3"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": false,
+      "contentId": 1090492554,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010332/1760699868359604_combo_promo_liverpool_vs_real_madrid_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - The Best Sporting Action"
     }
   ]
 }
