@@ -3,6 +3,19 @@
   "last update time": null,
   "matches": [
     {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090493392_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761821530697395_bliga2526_MD9_Bayern-Munich-vs-Bayer-Leverkusen_30oct_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Bundesliga 2025-26",
+      "match_name": "Bayern Munich vs Bayer Leverkusen - MD 9 - 1 Nov 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059934~acl=/*~id=89441288150709043767434290813440~hmac=8ddc5728bf061be927b8b70672916abb44f9dab7c46d8f72dbe1e0c29d68fb3a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059934~acl=/*~id=89441288150709043767434290813440~hmac=8ddc5728bf061be927b8b70672916abb44f9dab7c46d8f72dbe1e0c29d68fb3a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059934~acl=/*~id=89441288150709043767434290813440~hmac=8ddc5728bf061be927b8b70672916abb44f9dab7c46d8f72dbe1e0c29d68fb3a"
+    },
+    {
       "event_category": "Tennis",
       "isLive": true,
       "contentId": "1090493582_ENG",
@@ -11,87 +24,9 @@
       "audioLanguageName": "ENG",
       "event_name": "ATP Rolex Paris Masters 2025",
       "match_name": "Zverev vs Sinner - Semi-Final - 1 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158"
-    },
-    {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": "1090493390_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761819706628395_bliga2526_MD9_RB-Leipzig-vs-VfB-Stuttgart_30oct_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Bundesliga 2025-26",
-      "match_name": "RB Leipzig vs VfB Stuttgart - MD 9 - 1 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158"
-    },
-    {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": "1090493387_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761818590657395_bliga2526_MD9_Heidenheim-vs-Eintracht-Frankfurt_30oct_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Bundesliga 2025-26",
-      "match_name": "Heidenheim vs Eintracht Frankfurt - MD 9 - 1 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158"
-    },
-    {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": "1090493391_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761821224914395_bliga2526_MD9_St-Pauli-vs-Borussia-M-gladbach_30oct_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Bundesliga 2025-26",
-      "match_name": "St. Pauli vs Borussia M'gladbach - MD 9 - 1 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158"
-    },
-    {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": "1090493389_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761819277279395_bliga2526_MD9_Mainz-vs-Werder-Bremen_30oct_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Bundesliga 2025-26",
-      "match_name": "Mainz vs Werder Bremen - MD 9 - 1 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158"
-    },
-    {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": "1090493388_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761818836099395_bliga2526_MD9_Union-Berlin-vs-SC-Freiburg_30oct_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Bundesliga 2025-26",
-      "match_name": "Union Berlin vs SC Freiburg - MD 9 - 1 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158"
-    },
-    {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": "1090493386_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Bundesliga 2025-26",
-      "match_name": "Goal Arena - MD 9 - 1 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762056885~acl=/*~id=12191721694407097196883110594098~hmac=d7ed81092c19214b3bfd692c2627d9529abf5a237873fdfc00178588009df158"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059934~acl=/*~id=89441288150709043767434290813440~hmac=8ddc5728bf061be927b8b70672916abb44f9dab7c46d8f72dbe1e0c29d68fb3a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059934~acl=/*~id=89441288150709043767434290813440~hmac=8ddc5728bf061be927b8b70672916abb44f9dab7c46d8f72dbe1e0c29d68fb3a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059934~acl=/*~id=89441288150709043767434290813440~hmac=8ddc5728bf061be927b8b70672916abb44f9dab7c46d8f72dbe1e0c29d68fb3a"
     },
     {
       "event_category": "Sport",
@@ -101,15 +36,6 @@
       "broadcast_channel": "Sony Sports Ten 1",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - WWE - Saturday Night's Main Event"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090493489,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010581/1761657030867563_Bundesliga_MD_9_Bayern_vs_Leverkusen_tonight_landscape_thumb-3.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Bayern Munich vs Bayer Leverkusen"
     },
     {
       "event_category": "Football",
@@ -139,15 +65,6 @@
       "event_name": "Upcoming - PSG vs Bayern - UEFA Champions League 2025-26"
     },
     {
-      "event_category": "KHO KHO",
-      "isLive": false,
-      "contentId": 1090493208,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010539/1761399253798542_Ultimate_Kho-Kho_Promo_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Ultimate Kho Kho 2025"
-    },
-    {
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090493544,
@@ -155,6 +72,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Man City vs Dortmund - UEFA Champions League 2025-26"
+    },
+    {
+      "event_category": "KHO KHO",
+      "isLive": false,
+      "contentId": 1090493208,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010539/1761399253798542_Ultimate_Kho-Kho_Promo_Landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Ultimate Kho Kho 2025"
     },
     {
       "event_category": "Football",
@@ -215,6 +141,15 @@
       "isLive": false,
       "contentId": 1090492554,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010332/1760699868359604_combo_promo_liverpool_vs_real_madrid_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - The Best Sporting Action"
+    },
+    {
+      "event_category": "Cricket",
+      "isLive": false,
+      "contentId": 1090489002,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - The Best Sporting Action"
