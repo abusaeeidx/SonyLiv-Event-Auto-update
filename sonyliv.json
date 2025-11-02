@@ -3,58 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Fight Sports",
-      "isLive": true,
-      "contentId": "1090493604_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010666/176183524069352_UFC_Fight_Night_Garcia_vs_Onama_30oct_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "UFC Fight Night - Garcia vs Onama",
-      "match_name": "UFC Fight Night - Garcia vs Onama - 2 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc"
-    },
-    {
-      "event_category": "Fight Sports",
-      "isLive": true,
-      "contentId": "1090493604_HIN",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010666/176183524069352_UFC_Fight_Night_Garcia_vs_Onama_30oct_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "UFC Fight Night - Garcia vs Onama",
-      "match_name": "UFC Fight Night - Garcia vs Onama - 2 Nov 2025 [HIN]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc"
-    },
-    {
-      "event_category": "Fight Sports",
-      "isLive": true,
-      "contentId": "1090493604_TAM",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010666/176183524069352_UFC_Fight_Night_Garcia_vs_Onama_30oct_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "UFC Fight Night - Garcia vs Onama",
-      "match_name": "UFC Fight Night - Garcia vs Onama - 2 Nov 2025 [TAM]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc"
-    },
-    {
-      "event_category": "Fight Sports",
-      "isLive": true,
-      "contentId": "1090493604_TEL",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010666/176183524069352_UFC_Fight_Night_Garcia_vs_Onama_30oct_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "UFC Fight Night - Garcia vs Onama",
-      "match_name": "UFC Fight Night - Garcia vs Onama - 2 Nov 2025 [TEL]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762089805~acl=/*~id=40883703350579900705114382695047~hmac=c2a6efbb7242c35899d7e40fc302a72bad8b986d16a3e6dda00b56fda24891dc"
-    },
-    {
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090493547,
