@@ -11,18 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "UEFA Europa League 2025-26",
       "match_name": "Sturm Graz vs Nott'm Forest - MD 4 - 6 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762499447~acl=/*~id=30012484979583757212207066519047~hmac=379b888bd00f3877b434708bf2b66074aa17e45ca1d86cc55970096d58a0bc2e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762499447~acl=/*~id=30012484979583757212207066519047~hmac=379b888bd00f3877b434708bf2b66074aa17e45ca1d86cc55970096d58a0bc2e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762499447~acl=/*~id=30012484979583757212207066519047~hmac=379b888bd00f3877b434708bf2b66074aa17e45ca1d86cc55970096d58a0bc2e"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090493560,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010613/1761731294649339_UEL_Aston-Villa-vs-M-Tel-Aviv_tonight_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - UEFA Europa League - MD 4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762500664~acl=/*~id=39769321365646833585786775491159~hmac=2dcf24d0d239b52f5ffca1ed9dde03d8a4848eb664e7e3475e80740fb2f963d0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762500664~acl=/*~id=39769321365646833585786775491159~hmac=2dcf24d0d239b52f5ffca1ed9dde03d8a4848eb664e7e3475e80740fb2f963d0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762500664~acl=/*~id=39769321365646833585786775491159~hmac=2dcf24d0d239b52f5ffca1ed9dde03d8a4848eb664e7e3475e80740fb2f963d0"
     },
     {
       "event_category": "Football",
@@ -32,15 +23,6 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Do Or Die November "
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090493561,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010676/1761892022080154_UECL25_MD3_promo_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - UEFA Conference League - MD 3"
     },
     {
       "event_category": "Football",
