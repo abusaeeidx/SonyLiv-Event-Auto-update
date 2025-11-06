@@ -3,6 +3,19 @@
   "last update time": null,
   "matches": [
     {
+      "event_category": "Cricket",
+      "isLive": true,
+      "contentId": "1090493936_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231038475425_NZvsWI25_2t20i_4nov_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "West Indies Tour of New Zealand 2025",
+      "match_name": "2nd T20I - 6 Nov 2025 [ENG]",
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762450711~acl=/*~id=40080190983973916906311869353536~hmac=8d563974b097b3b18883d74dae93d0185340ba83f88c8e20dcc7e87d252e2eb3",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762450711~acl=/*~id=40080190983973916906311869353536~hmac=8d563974b097b3b18883d74dae93d0185340ba83f88c8e20dcc7e87d252e2eb3",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762450711~acl=/*~id=40080190983973916906311869353536~hmac=8d563974b097b3b18883d74dae93d0185340ba83f88c8e20dcc7e87d252e2eb3"
+    },
+    {
       "event_category": "Golf",
       "isLive": true,
       "contentId": "1090493935_ENG",
@@ -11,9 +24,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Asian Tour 2025",
       "match_name": "Moutai Singapore Open - Day 1 - 6 Nov 2025 [ENG]",
-      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762448873~acl=/*~id=63923410704795306859366705064818~hmac=0a86a8c5a56df757603b0563d3db771bee8c52dc755a1039f26d7e818f83ed23",
-      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762448873~acl=/*~id=63923410704795306859366705064818~hmac=0a86a8c5a56df757603b0563d3db771bee8c52dc755a1039f26d7e818f83ed23",
-      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762448873~acl=/*~id=63923410704795306859366705064818~hmac=0a86a8c5a56df757603b0563d3db771bee8c52dc755a1039f26d7e818f83ed23"
+      "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762450711~acl=/*~id=40080190983973916906311869353536~hmac=8d563974b097b3b18883d74dae93d0185340ba83f88c8e20dcc7e87d252e2eb3",
+      "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762450711~acl=/*~id=40080190983973916906311869353536~hmac=8d563974b097b3b18883d74dae93d0185340ba83f88c8e20dcc7e87d252e2eb3",
+      "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762450711~acl=/*~id=40080190983973916906311869353536~hmac=8d563974b097b3b18883d74dae93d0185340ba83f88c8e20dcc7e87d252e2eb3"
     },
     {
       "event_category": "Football",
