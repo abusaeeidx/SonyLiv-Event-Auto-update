@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Asian Tour 2025",
       "match_name": "Moutai Singapore Open - Day 2 - 7 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762543801~acl=/*~id=22180722975089975614125100906213~hmac=c5cdaa7acbbc3438a8f07f7ebf2cbff5ede77de3e5ee89f21036a96265c68324",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762543801~acl=/*~id=22180722975089975614125100906213~hmac=c5cdaa7acbbc3438a8f07f7ebf2cbff5ede77de3e5ee89f21036a96265c68324",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762543801~acl=/*~id=22180722975089975614125100906213~hmac=c5cdaa7acbbc3438a8f07f7ebf2cbff5ede77de3e5ee89f21036a96265c68324"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762546846~acl=/*~id=45006352706502354153076781427542~hmac=0f13a27b6dfe0ddf7383c2a8aafe646a8221924fcdaed7af90887674b88c79a7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762546846~acl=/*~id=45006352706502354153076781427542~hmac=0f13a27b6dfe0ddf7383c2a8aafe646a8221924fcdaed7af90887674b88c79a7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762546846~acl=/*~id=45006352706502354153076781427542~hmac=0f13a27b6dfe0ddf7383c2a8aafe646a8221924fcdaed7af90887674b88c79a7"
     },
     {
       "event_category": "Football",
@@ -28,7 +28,7 @@
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090494176,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010951/1762436648445964_Union-Berlin-vs-Bayern_landscape.jpg",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010826/1762249366914959_Bliga25_26_MD10_Union_Berlin_vs_Bayern_Munich_dated_Promo_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Union Berlin vs Bayern Munich"
