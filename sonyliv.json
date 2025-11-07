@@ -21,6 +21,15 @@
       "event_name": "Upcoming - Do Or Die November "
     },
     {
+      "event_category": "Tennis",
+      "isLive": false,
+      "contentId": 1090494247,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010990/1762522138973514_Nitto_ATP_Finals_DDT_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - 2025 Nitto ATP Finals"
+    },
+    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090492554,
