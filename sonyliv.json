@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Bundesliga 2025-26",
       "match_name": "Werder Bremen vs VfL Wolfsburg - MD 10 - 8 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762586990~acl=/*~id=23175317268654417556288265989887~hmac=a325fd69bb58b2a10ed29613d55f74488a3c1af245d4827d5a82f2eebdf1e469",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762586990~acl=/*~id=23175317268654417556288265989887~hmac=a325fd69bb58b2a10ed29613d55f74488a3c1af245d4827d5a82f2eebdf1e469",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762586990~acl=/*~id=23175317268654417556288265989887~hmac=a325fd69bb58b2a10ed29613d55f74488a3c1af245d4827d5a82f2eebdf1e469"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762589432~acl=/*~id=57732250628177800690033910749794~hmac=d08b8acb1be5c16ab92734af7bb2e3221cc155ce4db1d1984343d69a80b03ce9",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762589432~acl=/*~id=57732250628177800690033910749794~hmac=d08b8acb1be5c16ab92734af7bb2e3221cc155ce4db1d1984343d69a80b03ce9",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762589432~acl=/*~id=57732250628177800690033910749794~hmac=d08b8acb1be5c16ab92734af7bb2e3221cc155ce4db1d1984343d69a80b03ce9"
     },
     {
       "event_category": "Football",
@@ -25,15 +25,6 @@
       "event_name": "Upcoming - Union Berlin vs Bayern Munich"
     },
     {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090493971,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Do Or Die November "
-    },
-    {
       "event_category": "Tennis",
       "isLive": false,
       "contentId": 1090494247,
@@ -41,6 +32,15 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - 2025 Nitto ATP Finals"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090493971,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Do Or Die November "
     },
     {
       "event_category": "Cricket",
