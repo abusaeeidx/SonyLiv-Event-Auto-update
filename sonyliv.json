@@ -4,6 +4,19 @@
   "matches": [
     {
       "event_category": "Tennis",
+      "isLive": true,
+      "contentId": "1090494274_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011021/1762614626137248_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Nitto ATP Finals 2025",
+      "match_name": "Group Stage - 9 Nov 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762726285~acl=/*~id=39670210801080922992784854553173~hmac=59b6a92a01f6de342c7a38c1a8c0a11db9dcef2666530fd6761a669bb2b274fa",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762726285~acl=/*~id=39670210801080922992784854553173~hmac=59b6a92a01f6de342c7a38c1a8c0a11db9dcef2666530fd6761a669bb2b274fa",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762726285~acl=/*~id=39670210801080922992784854553173~hmac=59b6a92a01f6de342c7a38c1a8c0a11db9dcef2666530fd6761a669bb2b274fa"
+    },
+    {
+      "event_category": "Tennis",
       "isLive": false,
       "contentId": 1090494247,
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011019/1762609262804674_ATP_FINALS_Carlos-Alcaraz-v-Alex-de-Minaur_landscape_thumb.jpg",
