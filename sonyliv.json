@@ -11,22 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Nitto ATP Finals 2025",
       "match_name": "Alexander Zverev vs Ben Shelton - Group Stage - 10 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762762238~acl=/*~id=07223060031849515600214756691821~hmac=d47336f6d6943fe88481367e70a9d3f3cda00e46be6d977ecc9432e0a71ba570",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762762238~acl=/*~id=07223060031849515600214756691821~hmac=d47336f6d6943fe88481367e70a9d3f3cda00e46be6d977ecc9432e0a71ba570",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762762238~acl=/*~id=07223060031849515600214756691821~hmac=d47336f6d6943fe88481367e70a9d3f3cda00e46be6d977ecc9432e0a71ba570"
-    },
-    {
-      "event_category": "Football",
-      "isLive": true,
-      "contentId": "1090494266_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010786/1762149312281745_bliga2526_MD10_Eintracht-Frankfurt-vs-Mainz_3nov__landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Bundesliga 2025-26",
-      "match_name": "Eintracht Frankfurt vs Mainz - MD 10 - 10 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762762238~acl=/*~id=07223060031849515600214756691821~hmac=d47336f6d6943fe88481367e70a9d3f3cda00e46be6d977ecc9432e0a71ba570",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762762238~acl=/*~id=07223060031849515600214756691821~hmac=d47336f6d6943fe88481367e70a9d3f3cda00e46be6d977ecc9432e0a71ba570",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762762238~acl=/*~id=07223060031849515600214756691821~hmac=d47336f6d6943fe88481367e70a9d3f3cda00e46be6d977ecc9432e0a71ba570"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762765892~acl=/*~id=82475211610065661159672416763047~hmac=4bec8fc678d5ee62c668cd55eb13c0b023b79057bca539928b05e4781922afc7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762765892~acl=/*~id=82475211610065661159672416763047~hmac=4bec8fc678d5ee62c668cd55eb13c0b023b79057bca539928b05e4781922afc7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762765892~acl=/*~id=82475211610065661159672416763047~hmac=4bec8fc678d5ee62c668cd55eb13c0b023b79057bca539928b05e4781922afc7"
     },
     {
       "event_category": "Football",
