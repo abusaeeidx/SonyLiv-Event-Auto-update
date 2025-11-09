@@ -11,9 +11,22 @@
       "audioLanguageName": "ENG",
       "event_name": "Nitto ATP Finals 2025",
       "match_name": "Cash/Glasspool vs Bolelli/Vavassori - Group Stage - 9 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762752480~acl=/*~id=67219845865004966319764541536566~hmac=d93f2aef72371a6391667e0357229a3d2362c5a6d49007c7df312b2946d6b65c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762752480~acl=/*~id=67219845865004966319764541536566~hmac=d93f2aef72371a6391667e0357229a3d2362c5a6d49007c7df312b2946d6b65c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762752480~acl=/*~id=67219845865004966319764541536566~hmac=d93f2aef72371a6391667e0357229a3d2362c5a6d49007c7df312b2946d6b65c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762755529~acl=/*~id=92685365718793458818290680504109~hmac=6db50b975fea4b73ad2d5fef491ba0efaf6873c4f7e107e9af3503ef7b312ce9",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762755529~acl=/*~id=92685365718793458818290680504109~hmac=6db50b975fea4b73ad2d5fef491ba0efaf6873c4f7e107e9af3503ef7b312ce9",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762755529~acl=/*~id=92685365718793458818290680504109~hmac=6db50b975fea4b73ad2d5fef491ba0efaf6873c4f7e107e9af3503ef7b312ce9"
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090494266_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010786/1762149312281745_bliga2526_MD10_Eintracht-Frankfurt-vs-Mainz_3nov__landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Bundesliga 2025-26",
+      "match_name": "Eintracht Frankfurt vs Mainz - MD 10 - 10 Nov 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762755529~acl=/*~id=92685365718793458818290680504109~hmac=6db50b975fea4b73ad2d5fef491ba0efaf6873c4f7e107e9af3503ef7b312ce9",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762755529~acl=/*~id=92685365718793458818290680504109~hmac=6db50b975fea4b73ad2d5fef491ba0efaf6873c4f7e107e9af3503ef7b312ce9",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762755529~acl=/*~id=92685365718793458818290680504109~hmac=6db50b975fea4b73ad2d5fef491ba0efaf6873c4f7e107e9af3503ef7b312ce9"
     },
     {
       "event_category": "Football",
@@ -24,9 +37,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Bundesliga 2025-26",
       "match_name": "VfB Stuttgart vs FC Augsburg - MD 10 - 9 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762752480~acl=/*~id=67219845865004966319764541536566~hmac=d93f2aef72371a6391667e0357229a3d2362c5a6d49007c7df312b2946d6b65c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762752480~acl=/*~id=67219845865004966319764541536566~hmac=d93f2aef72371a6391667e0357229a3d2362c5a6d49007c7df312b2946d6b65c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762752480~acl=/*~id=67219845865004966319764541536566~hmac=d93f2aef72371a6391667e0357229a3d2362c5a6d49007c7df312b2946d6b65c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762755529~acl=/*~id=92685365718793458818290680504109~hmac=6db50b975fea4b73ad2d5fef491ba0efaf6873c4f7e107e9af3503ef7b312ce9",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762755529~acl=/*~id=92685365718793458818290680504109~hmac=6db50b975fea4b73ad2d5fef491ba0efaf6873c4f7e107e9af3503ef7b312ce9",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762755529~acl=/*~id=92685365718793458818290680504109~hmac=6db50b975fea4b73ad2d5fef491ba0efaf6873c4f7e107e9af3503ef7b312ce9"
     },
     {
       "event_category": "Football",
