@@ -11,18 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Nitto ATP Finals 2025",
       "match_name": "Arevalo-Gonzalez / Pavic vs Salisbury / Skupski - Group Stage - 10 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762817650~acl=/*~id=67812510019011380299759798665591~hmac=6f6877263b75cd97babd1b0d52f1bb3fa61bedea3d885e31078133499bb3ce13",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762817650~acl=/*~id=67812510019011380299759798665591~hmac=6f6877263b75cd97babd1b0d52f1bb3fa61bedea3d885e31078133499bb3ce13",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762817650~acl=/*~id=67812510019011380299759798665591~hmac=6f6877263b75cd97babd1b0d52f1bb3fa61bedea3d885e31078133499bb3ce13"
-    },
-    {
-      "event_category": "Tennis",
-      "isLive": false,
-      "contentId": 1090494247,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011074/1762754400266180_ATP_Musetti_vs_Fritz_today_10nov_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Nitto ATP Finals 2025"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762821308~acl=/*~id=12018669459511267979164617104765~hmac=851045aff260406f6b716dd1daaaf0e364b9a509b5be37451999ef91ebeae417",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762821308~acl=/*~id=12018669459511267979164617104765~hmac=851045aff260406f6b716dd1daaaf0e364b9a509b5be37451999ef91ebeae417",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762821308~acl=/*~id=12018669459511267979164617104765~hmac=851045aff260406f6b716dd1daaaf0e364b9a509b5be37451999ef91ebeae417"
     },
     {
       "event_category": "Football",
@@ -32,6 +23,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Do Or Die November "
+    },
+    {
+      "event_category": "Tennis",
+      "isLive": false,
+      "contentId": 1090494247,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011074/1762754400266180_ATP_Musetti_vs_Fritz_today_10nov_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Nitto ATP Finals 2025"
     },
     {
       "event_category": "Football",
