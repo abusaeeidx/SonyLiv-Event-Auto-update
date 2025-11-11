@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Nitto ATP Finals 2025",
       "match_name": "Granollers/Zeballos vs Bolelli/Vavassori - 11 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762904078~acl=/*~id=47805387805686350971038515665405~hmac=a95d83d31c28d6af2e116e2d99ce58c2a9fd4a4813b27802a9d005c9ea1daf43",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762904078~acl=/*~id=47805387805686350971038515665405~hmac=a95d83d31c28d6af2e116e2d99ce58c2a9fd4a4813b27802a9d005c9ea1daf43",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762904078~acl=/*~id=47805387805686350971038515665405~hmac=a95d83d31c28d6af2e116e2d99ce58c2a9fd4a4813b27802a9d005c9ea1daf43"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762907723~acl=/*~id=06677233039318358984708833829875~hmac=fdb4d6066586d9fa616a24edc22cb706fce8bbd0ef10c3e124a25ff3d314669f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762907723~acl=/*~id=06677233039318358984708833829875~hmac=fdb4d6066586d9fa616a24edc22cb706fce8bbd0ef10c3e124a25ff3d314669f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762907723~acl=/*~id=06677233039318358984708833829875~hmac=fdb4d6066586d9fa616a24edc22cb706fce8bbd0ef10c3e124a25ff3d314669f"
     },
     {
       "event_category": "Football",
@@ -23,15 +23,6 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Matchday 9 & 10 - European Qualifiers for 2026 FIFA World Cup"
-    },
-    {
-      "event_category": "Tennis",
-      "isLive": false,
-      "contentId": 1090494247,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011094/1762797899361595_ATP_Alcaraz_vs_Fritz_tonight_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Nitto ATP Finals 2025"
     },
     {
       "event_category": "Football",
@@ -50,6 +41,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Republic of Ireland vs Portugal - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Tennis",
+      "isLive": false,
+      "contentId": 1090494247,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011084/1762774368036797_Nitto_ATP_Finals_2025_Landscape_Thumb_Dated1.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Nitto ATP Finals 2025"
     },
     {
       "event_category": "Football",
