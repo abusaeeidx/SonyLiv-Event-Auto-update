@@ -10,10 +10,10 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Nitto ATP Finals 2025",
-      "match_name": "Group Stage - 12 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762985607~acl=/*~id=17800604973393873803432205357692~hmac=5eda2e46eb94a371de8054f271a2dfdd36f1122e77a88af5fd83ac5305966967",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762985607~acl=/*~id=17800604973393873803432205357692~hmac=5eda2e46eb94a371de8054f271a2dfdd36f1122e77a88af5fd83ac5305966967",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762985607~acl=/*~id=17800604973393873803432205357692~hmac=5eda2e46eb94a371de8054f271a2dfdd36f1122e77a88af5fd83ac5305966967"
+      "match_name": "Heliovaara/Patten vs Skupski/Salisbury  - 12 Nov 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762987434~acl=/*~id=33538602332741278136210441715046~hmac=68f813a45085a87efb7088cee939a9beb40724a5f8339689564084aac97618ee",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762987434~acl=/*~id=33538602332741278136210441715046~hmac=68f813a45085a87efb7088cee939a9beb40724a5f8339689564084aac97618ee",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762987434~acl=/*~id=33538602332741278136210441715046~hmac=68f813a45085a87efb7088cee939a9beb40724a5f8339689564084aac97618ee"
     },
     {
       "event_category": "Football",
