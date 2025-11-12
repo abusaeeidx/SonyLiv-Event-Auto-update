@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Nitto ATP Finals 2025",
       "match_name": "Heliovaara/Patten vs Skupski/Salisbury  - 12 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762990484~acl=/*~id=84216050676645851693784525043123~hmac=413a3ca6427691531ea6d1e2c5d50891e806dd0b3892130e379af135a836a925",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762990484~acl=/*~id=84216050676645851693784525043123~hmac=413a3ca6427691531ea6d1e2c5d50891e806dd0b3892130e379af135a836a925",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762990484~acl=/*~id=84216050676645851693784525043123~hmac=413a3ca6427691531ea6d1e2c5d50891e806dd0b3892130e379af135a836a925"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762994137~acl=/*~id=71891480832374543864339165053385~hmac=e151d085ddbd257acdc629f6f80c134203ba596df9cc8584eaefaaa5702a09e2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762994137~acl=/*~id=71891480832374543864339165053385~hmac=e151d085ddbd257acdc629f6f80c134203ba596df9cc8584eaefaaa5702a09e2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762994137~acl=/*~id=71891480832374543864339165053385~hmac=e151d085ddbd257acdc629f6f80c134203ba596df9cc8584eaefaaa5702a09e2"
     },
     {
       "event_category": "Football",
@@ -32,15 +32,6 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "HIN",
       "event_name": "Upcoming - DP World Men's Asia Cup Rising Stars 2025"
-    },
-    {
-      "event_category": "Tennis",
-      "isLive": false,
-      "contentId": 1090494247,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011113/1762865753379555_ATP_FINALS_Shelton-vs-Auger-Aliassime_landscapet_thumb_today.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Nitto ATP Finals 2025"
     },
     {
       "event_category": "Football",
@@ -86,6 +77,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Moldova vs Italy - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Tennis",
+      "isLive": false,
+      "contentId": 1090494247,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010991/1762522853145253_Promo-Nitto-ATP-Finals_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Nitto ATP Finals 2025"
     },
     {
       "event_category": "Football",
