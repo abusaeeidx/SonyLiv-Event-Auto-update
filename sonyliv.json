@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Nitto ATP Finals 2025",
       "match_name": "Puetz/Krawietz vs Vavassori/Bolelli - Group Stage - 13 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763076945~acl=/*~id=15976741109218188753518556679297~hmac=a5bb3a96e899b3ce12d2335d044ead088016a0f36285b10223b737d17c58e68d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763076945~acl=/*~id=15976741109218188753518556679297~hmac=a5bb3a96e899b3ce12d2335d044ead088016a0f36285b10223b737d17c58e68d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763076945~acl=/*~id=15976741109218188753518556679297~hmac=a5bb3a96e899b3ce12d2335d044ead088016a0f36285b10223b737d17c58e68d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763080600~acl=/*~id=39575704444752432671398538395908~hmac=3ec492ca511f6ee71263eee5a46220fff3057fb407874c06736ea25f9c34f879",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763080600~acl=/*~id=39575704444752432671398538395908~hmac=3ec492ca511f6ee71263eee5a46220fff3057fb407874c06736ea25f9c34f879",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763080600~acl=/*~id=39575704444752432671398538395908~hmac=3ec492ca511f6ee71263eee5a46220fff3057fb407874c06736ea25f9c34f879"
     },
     {
       "event_category": "Football",
@@ -73,7 +73,7 @@
       "event_category": "Tennis",
       "isLive": false,
       "contentId": 1090494247,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011135/1762936819716234_ATP_Nitto_Fritz_vs_DeMinaur_Today_Landscape_thumb.jpg",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010991/1762522853145253_Promo-Nitto-ATP-Finals_landscape.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Nitto ATP Finals 2025"
