@@ -11,22 +11,35 @@
       "audioLanguageName": "ENG",
       "event_name": "DP World Asia Cup Rising Stars Men's 2025",
       "match_name": "Sri Lanka A vs Afghanistan A - 15 Nov 2025  [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763256106~acl=/*~id=69582690080562881140176107564620~hmac=3e76247ac90510b84e19fc4c89b6671bf6bf58e783e2a25a5475a6a22f53ed0a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763256106~acl=/*~id=69582690080562881140176107564620~hmac=3e76247ac90510b84e19fc4c89b6671bf6bf58e783e2a25a5475a6a22f53ed0a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763256106~acl=/*~id=69582690080562881140176107564620~hmac=3e76247ac90510b84e19fc4c89b6671bf6bf58e783e2a25a5475a6a22f53ed0a"
+    },
+    {
+      "event_category": "Football",
+      "isLive": true,
+      "contentId": "1090494702_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762356230196408_EQFs_MD9_Kazakhstan_vs_Belgium_3nov_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "European Qualifiers For 2026 FIFA World Cup",
+      "match_name": "Kazakhstan vs Belgium - MD 9 - 15 Nov 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763256106~acl=/*~id=69582690080562881140176107564620~hmac=3e76247ac90510b84e19fc4c89b6671bf6bf58e783e2a25a5475a6a22f53ed0a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763256106~acl=/*~id=69582690080562881140176107564620~hmac=3e76247ac90510b84e19fc4c89b6671bf6bf58e783e2a25a5475a6a22f53ed0a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763256106~acl=/*~id=69582690080562881140176107564620~hmac=3e76247ac90510b84e19fc4c89b6671bf6bf58e783e2a25a5475a6a22f53ed0a"
     },
     {
       "event_category": "Tennis",
       "isLive": true,
       "contentId": "1090494756_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011314/1763186314655382_1762779590126352_nitto_atp_finals_Semi-Final_landscape_thumb-3.jpg",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011311/1763185053846327_ATP_NITTO_SF_Sinner_vs_DeMinaur_live_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Nitto ATP Finals 2025",
-      "match_name": "Bolelli/Vavassori vs Patten/Heliovaara - 15 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119"
+      "match_name": "Sinner vs De Minaur - Semi-Finals - 15 Nov 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763256106~acl=/*~id=69582690080562881140176107564620~hmac=3e76247ac90510b84e19fc4c89b6671bf6bf58e783e2a25a5475a6a22f53ed0a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763256106~acl=/*~id=69582690080562881140176107564620~hmac=3e76247ac90510b84e19fc4c89b6671bf6bf58e783e2a25a5475a6a22f53ed0a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763256106~acl=/*~id=69582690080562881140176107564620~hmac=3e76247ac90510b84e19fc4c89b6671bf6bf58e783e2a25a5475a6a22f53ed0a"
     },
     {
       "event_category": "Football",
@@ -56,24 +69,6 @@
       "event_name": "Upcoming - UFC 322 - Della Maddalena vs Makhachev"
     },
     {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090494280,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011306/1763166649163468_EQ25_Kazakhstan_vs_Belgium_tonight_15nov_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Kazakhstan vs Belgium - European Qualifiers for 2026 FIFA World Cup"
-    },
-    {
-      "event_category": "Tennis",
-      "isLive": false,
-      "contentId": 1090494247,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011310/1763184119701687_ATP_NITTO_SF_Sinner_vs_DeMinaur_today_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Nitto ATP Finals 2025"
-    },
-    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090494830,
@@ -81,6 +76,15 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "HIN",
       "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+    },
+    {
+      "event_category": "Tennis",
+      "isLive": false,
+      "contentId": 1090494247,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010991/1762522853145253_Promo-Nitto-ATP-Finals_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Nitto ATP Finals 2025"
     },
     {
       "event_category": "Cricket",
@@ -153,6 +157,15 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Belgium vs Liechtenstein - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090494769,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011255/1763122028285160_EQ_MD10_ger_vs_slo_Promo_Landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Germany vs Slovakia - European Qualifiers for 2026 FIFA World Cup"
     }
   ]
 }
