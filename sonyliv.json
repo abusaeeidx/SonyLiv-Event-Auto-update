@@ -3,6 +3,19 @@
   "last update time": null,
   "matches": [
     {
+      "event_category": "Cricket",
+      "isLive": true,
+      "contentId": "1090494834_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011275/1763135371446626_ACC25_SLA_vs_AFGA_Live_lLandscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "DP World Asia Cup Rising Stars Men's 2025",
+      "match_name": "Sri Lanka A vs Afghanistan A - 15 Nov 2025  [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763248164~acl=/*~id=67780083010515407520900854859047~hmac=a851b37f3be3f9165b8259c0ed64c75b83e0bab3a0dd9294067cc06a59b1d027",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763248164~acl=/*~id=67780083010515407520900854859047~hmac=a851b37f3be3f9165b8259c0ed64c75b83e0bab3a0dd9294067cc06a59b1d027",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763248164~acl=/*~id=67780083010515407520900854859047~hmac=a851b37f3be3f9165b8259c0ed64c75b83e0bab3a0dd9294067cc06a59b1d027"
+    },
+    {
       "event_category": "Tennis",
       "isLive": true,
       "contentId": "1090494756_ENG",
@@ -10,10 +23,10 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Nitto ATP Finals 2025",
-      "match_name": "Semi-Final - 15 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763246338~acl=/*~id=50824881958766009048947375277727~hmac=dd9f50693d343786215e83b0ea7398d2e7c569e350a19ac86b1f49d57f89c12d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763246338~acl=/*~id=50824881958766009048947375277727~hmac=dd9f50693d343786215e83b0ea7398d2e7c569e350a19ac86b1f49d57f89c12d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763246338~acl=/*~id=50824881958766009048947375277727~hmac=dd9f50693d343786215e83b0ea7398d2e7c569e350a19ac86b1f49d57f89c12d"
+      "match_name": "Bolelli/Vavassori vs Patten/Hellovaara - 15 Nov 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763248164~acl=/*~id=67780083010515407520900854859047~hmac=a851b37f3be3f9165b8259c0ed64c75b83e0bab3a0dd9294067cc06a59b1d027",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763248164~acl=/*~id=67780083010515407520900854859047~hmac=a851b37f3be3f9165b8259c0ed64c75b83e0bab3a0dd9294067cc06a59b1d027",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763248164~acl=/*~id=67780083010515407520900854859047~hmac=a851b37f3be3f9165b8259c0ed64c75b83e0bab3a0dd9294067cc06a59b1d027"
     },
     {
       "event_category": "Football",
@@ -64,7 +77,7 @@
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090494830,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011273/1763133791089845_ACC25_SLA_vs_AFGA_today_Landscape_thumb.jpg",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011092/1762788578350126_AsiaCupRisingStars2025_GOB_Landscape_Thumb_Dated.jpg",
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "HIN",
       "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
