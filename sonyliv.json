@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "DP World Asia Cup Rising Stars Men's 2025",
       "match_name": "Bangladesh A vs Hong Kong, China - 15 Nov 2025  [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763230488~acl=/*~id=10616323300437068239235044396756~hmac=074f65238fa1207e00d486a0fed259d30b965995e7bda6f1ddc90140e1cca181",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763230488~acl=/*~id=10616323300437068239235044396756~hmac=074f65238fa1207e00d486a0fed259d30b965995e7bda6f1ddc90140e1cca181",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763230488~acl=/*~id=10616323300437068239235044396756~hmac=074f65238fa1207e00d486a0fed259d30b965995e7bda6f1ddc90140e1cca181"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763232319~acl=/*~id=28045474959371075935546607297379~hmac=4bf558677fda4b371f4eb30f4af9483ddaf84a670015007935873f5329c68022",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763232319~acl=/*~id=28045474959371075935546607297379~hmac=4bf558677fda4b371f4eb30f4af9483ddaf84a670015007935873f5329c68022",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763232319~acl=/*~id=28045474959371075935546607297379~hmac=4bf558677fda4b371f4eb30f4af9483ddaf84a670015007935873f5329c68022"
     },
     {
       "event_category": "Football",
@@ -52,6 +52,24 @@
       "event_name": "Upcoming - India A vs Pakistan A - DP World Asia Cup Rising Stars Men's 2025"
     },
     {
+      "event_category": "Football",
+      "isLive": false,
+      "contentId": 1090494280,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011306/1763166649163468_EQ25_Kazakhstan_vs_Belgium_tonight_15nov_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Kazakhstan vs Belgium - European Qualifiers for 2026 FIFA World Cup"
+    },
+    {
+      "event_category": "Tennis",
+      "isLive": false,
+      "contentId": 1090494247,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011310/1763184119701687_ATP_NITTO_SF_Sinner_vs_DeMinaur_today_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - Nitto ATP Finals 2025"
+    },
+    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090494509,
@@ -59,15 +77,6 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "HIN",
       "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
-    },
-    {
-      "event_category": "Tennis",
-      "isLive": false,
-      "contentId": 1090494247,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010991/1762522853145253_Promo-Nitto-ATP-Finals_landscape.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Nitto ATP Finals 2025"
     },
     {
       "event_category": "Football",
@@ -86,15 +95,6 @@
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Do Or Die November "
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090494280,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011306/1763166649163468_EQ25_Kazakhstan_vs_Belgium_tonight_15nov_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Kazakhstan vs Belgium - European Qualifiers for 2026 FIFA World Cup"
     },
     {
       "event_category": "Cricket",
