@@ -21,6 +21,15 @@
       "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
     },
     {
+      "event_category": "Cricket",
+      "isLive": false,
+      "contentId": 1090495191,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011440/1763368370042947_Promo_Ind-vs-Oman_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "audioLanguageName": "HIN",
+      "event_name": "Upcoming - India A vs Oman - DP World Asia Cup Rising Stars Men's 2025"
+    },
+    {
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090494287,
