@@ -3,19 +3,6 @@
   "last update time": null,
   "matches": [
     {
-      "event_category": "Cricket",
-      "isLive": true,
-      "contentId": "1090495322_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011479/1763403050529266_ACRS25_AFG_A_VS_HKC_17nov_Landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "DP World Asia Cup Rising Stars Men's 2025",
-      "match_name": "Afghanistan A vs Hong Kong, China - 19 Nov 2025  [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763599108~acl=/*~id=69762606646520489335321083845141~hmac=3e0e526eb02b12b614608a7e3c502f92eb3492f6b2b2f5c6d7a0eeccacb3392c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763599108~acl=/*~id=69762606646520489335321083845141~hmac=3e0e526eb02b12b614608a7e3c502f92eb3492f6b2b2f5c6d7a0eeccacb3392c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763599108~acl=/*~id=69762606646520489335321083845141~hmac=3e0e526eb02b12b614608a7e3c502f92eb3492f6b2b2f5c6d7a0eeccacb3392c"
-    },
-    {
       "event_category": "Golf",
       "isLive": true,
       "contentId": "1090495306_ENG",
@@ -24,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Asian Tour 2025",
       "match_name": "PIF Saudi International - Day 1 - 19 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763599108~acl=/*~id=69762606646520489335321083845141~hmac=3e0e526eb02b12b614608a7e3c502f92eb3492f6b2b2f5c6d7a0eeccacb3392c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763599108~acl=/*~id=69762606646520489335321083845141~hmac=3e0e526eb02b12b614608a7e3c502f92eb3492f6b2b2f5c6d7a0eeccacb3392c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763599108~acl=/*~id=69762606646520489335321083845141~hmac=3e0e526eb02b12b614608a7e3c502f92eb3492f6b2b2f5c6d7a0eeccacb3392c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763602155~acl=/*~id=64119804970635205870521145085432~hmac=875e6c71b2cc6ac2e160f4cac61477878cf71136b9b5a2ead8953c92826707c0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763602155~acl=/*~id=64119804970635205870521145085432~hmac=875e6c71b2cc6ac2e160f4cac61477878cf71136b9b5a2ead8953c92826707c0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763602155~acl=/*~id=64119804970635205870521145085432~hmac=875e6c71b2cc6ac2e160f4cac61477878cf71136b9b5a2ead8953c92826707c0"
     },
     {
       "event_category": "Cricket",
