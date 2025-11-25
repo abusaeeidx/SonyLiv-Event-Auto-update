@@ -84,15 +84,6 @@
       "event_name": "Upcoming - UEFA Europa League - MD 5"
     },
     {
-      "event_category": "Sport",
-      "isLive": false,
-      "contentId": 1090495939,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011766/1764000131244700_WWE_john_cena_promo_24nov_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 1",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - WWE SNME - John Cena's Final Match"
-    },
-    {
       "event_category": "Football",
       "isLive": false,
       "contentId": 1090495938,
@@ -100,6 +91,15 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - UEFA Conference League - MD 4"
+    },
+    {
+      "event_category": "Sport",
+      "isLive": false,
+      "contentId": 1090495939,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011766/1764000131244700_WWE_john_cena_promo_24nov_landscape_thumb.jpg",
+      "broadcast_channel": "Sony Sports Ten 1",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - WWE SNME - John Cena's Final Match"
     },
     {
       "event_category": "Football",
