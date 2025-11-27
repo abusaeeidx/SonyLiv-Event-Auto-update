@@ -5,37 +5,28 @@
     {
       "event_category": "Football",
       "isLive": true,
-      "contentId": "1090496063_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762617067219622_UEL25_md5_AstonVilla_vs_YoungBoys_landscape_thumb.jpg",
+      "contentId": "1090496074_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762707079997622_UEL25_md5_NottmForest_vs_Malmo_Landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
       "event_name": "UEFA Europa League 2025-26",
-      "match_name": "Aston Villa vs Young Boys - MD 5 - 27 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315053~acl=/*~id=36194001447171420039116998803988~hmac=7e83b659d61b3f302c42647c8c3f36b07a02ed28d283ff23d9d3fa1f4fbf8c98",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315053~acl=/*~id=36194001447171420039116998803988~hmac=7e83b659d61b3f302c42647c8c3f36b07a02ed28d283ff23d9d3fa1f4fbf8c98",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315053~acl=/*~id=36194001447171420039116998803988~hmac=7e83b659d61b3f302c42647c8c3f36b07a02ed28d283ff23d9d3fa1f4fbf8c98"
+      "match_name": "Nott'm Forest vs Malmo - MD 5 - 28 Nov 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764317486~acl=/*~id=64018304933481920266502077119816~hmac=b986f26be6f434a3247fb8e14739040bae193d445c6241370c8a377d24cd5cf2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764317486~acl=/*~id=64018304933481920266502077119816~hmac=b986f26be6f434a3247fb8e14739040bae193d445c6241370c8a377d24cd5cf2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764317486~acl=/*~id=64018304933481920266502077119816~hmac=b986f26be6f434a3247fb8e14739040bae193d445c6241370c8a377d24cd5cf2"
     },
     {
       "event_category": "Football",
       "isLive": true,
-      "contentId": "1090496062_ENG",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762616396094622_UEL25_md5_Roma_vs_Midtjylland_landscape_thumb.jpg",
+      "contentId": "1090496097_ENG",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011534/1763499370570830_UECL2526_MD4_Strasbourg_vs_Crystal_Palace_18nov_landscape_thumb.jpg",
       "broadcast_channel": "Sony Sports Ten 2",
       "audioLanguageName": "ENG",
-      "event_name": "UEFA Europa League 2025-26",
-      "match_name": "Roma vs Midtjylland - MD 5 - 27 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315053~acl=/*~id=36194001447171420039116998803988~hmac=7e83b659d61b3f302c42647c8c3f36b07a02ed28d283ff23d9d3fa1f4fbf8c98",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315053~acl=/*~id=36194001447171420039116998803988~hmac=7e83b659d61b3f302c42647c8c3f36b07a02ed28d283ff23d9d3fa1f4fbf8c98",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315053~acl=/*~id=36194001447171420039116998803988~hmac=7e83b659d61b3f302c42647c8c3f36b07a02ed28d283ff23d9d3fa1f4fbf8c98"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090495937,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011767/1764000343920107_UEL25_promo_24nov_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - UEFA Europa League - MD 5"
+      "event_name": "UEFA Conference League 2025-26",
+      "match_name": "Strasbourg vs Crystal Palace - MD 4 - 28 Nov 2025 [ENG]",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764317486~acl=/*~id=64018304933481920266502077119816~hmac=b986f26be6f434a3247fb8e14739040bae193d445c6241370c8a377d24cd5cf2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764317486~acl=/*~id=64018304933481920266502077119816~hmac=b986f26be6f434a3247fb8e14739040bae193d445c6241370c8a377d24cd5cf2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764317486~acl=/*~id=64018304933481920266502077119816~hmac=b986f26be6f434a3247fb8e14739040bae193d445c6241370c8a377d24cd5cf2"
     },
     {
       "event_category": "Sport",
@@ -63,15 +54,6 @@
       "broadcast_channel": "Sony Sports Ten 5",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - Bayer Leverkusen vs Borussia Dortmund"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090495938,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011767/1764000387587107_UECL25_promo_24nov_landscape_thumb.jpg",
-      "broadcast_channel": "Sony Sports Ten 5",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - UEFA Conference League - MD 4"
     },
     {
       "event_category": "Football",
