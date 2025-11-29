@@ -11,9 +11,9 @@
       "audioLanguageName": "ENG",
       "event_name": "Bundesliga 2025-26",
       "match_name": "Bayer Leverkusen vs Borussia Dortmund - MD 12 - 29 Nov 2025 [ENG]",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764483619~acl=/*~id=57043970056280857223685181187870~hmac=087b15cface33d6dedc8e83e133cdbfaddcc078c5d531a9f4918d7e79535a667",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764483619~acl=/*~id=57043970056280857223685181187870~hmac=087b15cface33d6dedc8e83e133cdbfaddcc078c5d531a9f4918d7e79535a667",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764483619~acl=/*~id=57043970056280857223685181187870~hmac=087b15cface33d6dedc8e83e133cdbfaddcc078c5d531a9f4918d7e79535a667"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764484835~acl=/*~id=53991876039044104015297574314792~hmac=b52bc4a6ef14626431e38230114fbafb370100fae99292ad0ee7c07e1fec7956",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764484835~acl=/*~id=53991876039044104015297574314792~hmac=b52bc4a6ef14626431e38230114fbafb370100fae99292ad0ee7c07e1fec7956",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764484835~acl=/*~id=53991876039044104015297574314792~hmac=b52bc4a6ef14626431e38230114fbafb370100fae99292ad0ee7c07e1fec7956"
     },
     {
       "event_category": "Sport",
@@ -23,15 +23,6 @@
       "broadcast_channel": "Sony Sports Ten 1",
       "audioLanguageName": "ENG",
       "event_name": "Upcoming - WWE SNME - John Cena's Final Match"
-    },
-    {
-      "event_category": "Football",
-      "isLive": false,
-      "contentId": 1090493971,
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg",
-      "broadcast_channel": "Sony Sports Ten 2",
-      "audioLanguageName": "ENG",
-      "event_name": "Upcoming - Do Or Die November "
     },
     {
       "event_category": "Cricket",
