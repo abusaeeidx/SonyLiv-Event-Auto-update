@@ -12,6 +12,15 @@
       "event_name": "Upcoming - WWE SNME - John Cena's Final Match"
     },
     {
+      "event_category": "Fight Sports",
+      "isLive": false,
+      "contentId": 1090496396,
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011939/1764578414878142_UFC_PROMO_landscape.jpg",
+      "broadcast_channel": "Sony Sports Ten 2",
+      "audioLanguageName": "ENG",
+      "event_name": "Upcoming - UFC 323 - Dvalishvili vs Yan 2"
+    },
+    {
       "event_category": "Cricket",
       "isLive": false,
       "contentId": 1090489002,
